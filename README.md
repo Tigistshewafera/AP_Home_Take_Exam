@@ -98,4 +98,357 @@ Average Levenshtein distance for let-7 miRNA in species 'sbo-': 2.00
 Average Levenshtein distance for let-7 miRNA in species 'pha-': 2.57
 Average Levenshtein distance for let-7 miRNA in species 'oga-': 2.57
 
+## Question 4: what is the average Levenshtein distance among all pairs for human?
+
+pydev debugger: starting (pid: 960)
+let-7a miRNA codes:
+hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p
+hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p
+hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p
+hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p
+hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p
+hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p
+hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p
+hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p
+hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p
+hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p
+hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p
+hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p
+hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p
+hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p
+hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p
+hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p
+hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p
+hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p
+Pairwise Levenshtein distances for hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p
+Levenshtein distance between hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p and hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p: 14
+Levenshtein distance between hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p and hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p: 15
+Levenshtein distance between hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p and hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p: 2
+Levenshtein distance between hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p and hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p: 16
+Levenshtein distance between hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p and hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p: 1
+Levenshtein distance between hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p and hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p: 14
+Levenshtein distance between hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p and hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p: 2
+Levenshtein distance between hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p and hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p: 15
+Levenshtein distance between hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p and hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p: 1
+Levenshtein distance between hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p and hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p: 16
+Levenshtein distance between hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p and hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p: 1
+Levenshtein distance between hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p and hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p: 15
+Levenshtein distance between hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p and hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p: 14
+Levenshtein distance between hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p and hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p: 2
+Levenshtein distance between hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 15
+Levenshtein distance between hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 4
+Levenshtein distance between hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p and hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p: 12
+Pairwise Levenshtein distances for hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p
+Levenshtein distance between hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p and hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p: 14
+Levenshtein distance between hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p and hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p: 7
+Levenshtein distance between hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p and hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p: 13
+Levenshtein distance between hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p and hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p: 4
+Levenshtein distance between hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p and hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p: 14
+Levenshtein distance between hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p and hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p: 6
+Levenshtein distance between hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p and hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p: 15
+Levenshtein distance between hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p and hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p: 5
+Levenshtein distance between hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p and hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p: 14
+Levenshtein distance between hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p and hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p: 7
+Levenshtein distance between hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p and hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p: 13
+Levenshtein distance between hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p and hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p: 4
+Levenshtein distance between hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p and hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p: 2
+Levenshtein distance between hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p and hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p: 14
+Levenshtein distance between hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 6
+Levenshtein distance between hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 13
+Levenshtein distance between hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p and hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p: 7
+Pairwise Levenshtein distances for hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p
+Levenshtein distance between hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p and hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p: 15
+Levenshtein distance between hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p and hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p: 7
+Levenshtein distance between hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p and hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p: 16
+Levenshtein distance between hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p and hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p: 6
+Levenshtein distance between hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p and hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p: 15
+Levenshtein distance between hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p and hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p: 2
+Levenshtein distance between hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p and hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p: 14
+Levenshtein distance between hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p and hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p: 7
+Levenshtein distance between hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p and hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p: 15
+Levenshtein distance between hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p and hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p: 2
+Levenshtein distance between hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p and hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p: 15
+Levenshtein distance between hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p and hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p: 8
+Levenshtein distance between hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p and hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p: 5
+Levenshtein distance between hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p and hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p: 15
+Levenshtein distance between hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 6
+Levenshtein distance between hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 14
+Levenshtein distance between hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p and hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p: 9
+Pairwise Levenshtein distances for hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p
+Levenshtein distance between hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p and hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p: 2
+Levenshtein distance between hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p and hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p: 13
+Levenshtein distance between hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p and hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p: 16
+Levenshtein distance between hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p and hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p: 16
+Levenshtein distance between hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p and hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p: 1
+Levenshtein distance between hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p and hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p: 15
+Levenshtein distance between hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p and hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p: 4
+Levenshtein distance between hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p and hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p: 15
+Levenshtein distance between hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p and hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p: 3
+Levenshtein distance between hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p and hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p: 16
+Levenshtein distance between hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p and hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p: 3
+Levenshtein distance between hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p and hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p: 15
+Levenshtein distance between hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p and hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p: 14
+Levenshtein distance between hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p and hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p: 4
+Levenshtein distance between hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 15
+Levenshtein distance between hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 3
+Levenshtein distance between hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p and hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p: 12
+Pairwise Levenshtein distances for hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p
+Levenshtein distance between hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p and hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p: 16
+Levenshtein distance between hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p and hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p: 4
+Levenshtein distance between hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p and hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p: 6
+Levenshtein distance between hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p and hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p: 16
+Levenshtein distance between hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p and hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p: 16
+Levenshtein distance between hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p and hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p: 5
+Levenshtein distance between hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p and hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p: 15
+Levenshtein distance between hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p and hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p: 4
+Levenshtein distance between hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p and hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p: 16
+Levenshtein distance between hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p and hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p: 6
+Levenshtein distance between hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p and hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p: 16
+Levenshtein distance between hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p and hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p: 2
+Levenshtein distance between hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p and hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p: 4
+Levenshtein distance between hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p and hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p: 16
+Levenshtein distance between hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 6
+Levenshtein distance between hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 15
+Levenshtein distance between hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p and hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p: 6
+Pairwise Levenshtein distances for hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p
+Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p: 1
+Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p: 14
+Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p: 15
+Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p: 1
+Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p: 16
+Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p: 14
+Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p: 3
+Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p: 15
+Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p: 2
+Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p: 16
+Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p: 2
+Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p: 15
+Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p: 14
+Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p: 3
+Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 15
+Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 4
+Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p: 12
+Pairwise Levenshtein distances for hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p
+Levenshtein distance between hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p and hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p: 14
+Levenshtein distance between hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p and hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p: 6
+Levenshtein distance between hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p and hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p: 2
+Levenshtein distance between hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p and hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p: 15
+Levenshtein distance between hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p and hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p: 5
+Levenshtein distance between hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p and hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p: 14
+Levenshtein distance between hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p and hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p: 14
+Levenshtein distance between hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p and hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p: 6
+Levenshtein distance between hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p and hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p: 14
+Levenshtein distance between hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p and hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p: 4
+Levenshtein distance between hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p and hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p: 14
+Levenshtein distance between hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p and hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p: 7
+Levenshtein distance between hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p and hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p: 6
+Levenshtein distance between hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p and hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p: 14
+Levenshtein distance between hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 7
+Levenshtein distance between hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 13
+Levenshtein distance between hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p and hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p: 8
+Pairwise Levenshtein distances for hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p
+Levenshtein distance between hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p and hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p: 2
+Levenshtein distance between hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p and hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p: 15
+Levenshtein distance between hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p and hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p: 14
+Levenshtein distance between hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p and hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p: 4
+Levenshtein distance between hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p and hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p: 15
+Levenshtein distance between hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p and hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p: 3
+Levenshtein distance between hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p and hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p: 14
+Levenshtein distance between hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p and hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p: 14
+Levenshtein distance between hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p and hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p: 3
+Levenshtein distance between hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p and hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p: 15
+Levenshtein distance between hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p and hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p: 3
+Levenshtein distance between hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p and hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p: 14
+Levenshtein distance between hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p and hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p: 15
+Levenshtein distance between hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p and hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p: 4
+Levenshtein distance between hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 14
+Levenshtein distance between hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 6
+Levenshtein distance between hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p and hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p: 12
+Pairwise Levenshtein distances for hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p
+Levenshtein distance between hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p and hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p: 15
+Levenshtein distance between hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p and hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p: 5
+Levenshtein distance between hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p and hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p: 7
+Levenshtein distance between hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p and hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p: 15
+Levenshtein distance between hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p and hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p: 4
+Levenshtein distance between hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p and hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p: 15
+Levenshtein distance between hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p and hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p: 6
+Levenshtein distance between hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p and hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p: 14
+Levenshtein distance between hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p and hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p: 14
+Levenshtein distance between hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p and hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p: 5
+Levenshtein distance between hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p and hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p: 15
+Levenshtein distance between hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p and hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p: 6
+Levenshtein distance between hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p and hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p: 6
+Levenshtein distance between hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p and hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p: 15
+Levenshtein distance between hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 7
+Levenshtein distance between hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 13
+Levenshtein distance between hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p and hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p: 7
+Pairwise Levenshtein distances for hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p
+Levenshtein distance between hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p and hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p: 1
+Levenshtein distance between hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p and hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p: 14
+Levenshtein distance between hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p and hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p: 15
+Levenshtein distance between hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p and hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p: 3
+Levenshtein distance between hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p and hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p: 16
+Levenshtein distance between hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p and hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p: 2
+Levenshtein distance between hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p and hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p: 14
+Levenshtein distance between hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p and hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p: 3
+Levenshtein distance between hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p and hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p: 14
+Levenshtein distance between hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p and hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p: 15
+Levenshtein distance between hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p and hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p: 2
+Levenshtein distance between hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p and hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p: 16
+Levenshtein distance between hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p and hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p: 15
+Levenshtein distance between hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p and hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p: 3
+Levenshtein distance between hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 14
+Levenshtein distance between hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 5
+Levenshtein distance between hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p and hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p: 13
+Pairwise Levenshtein distances for hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p
+Levenshtein distance between hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p and hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p: 16
+Levenshtein distance between hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p and hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p: 7
+Levenshtein distance between hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p and hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p: 2
+Levenshtein distance between hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p and hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p: 16
+Levenshtein distance between hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p and hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p: 6
+Levenshtein distance between hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p and hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p: 16
+Levenshtein distance between hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p and hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p: 4
+Levenshtein distance between hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p and hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p: 15
+Levenshtein distance between hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p and hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p: 5
+Levenshtein distance between hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p and hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p: 15
+Levenshtein distance between hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p and hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p: 16
+Levenshtein distance between hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p and hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p: 8
+Levenshtein distance between hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p and hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p: 5
+Levenshtein distance between hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p and hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p: 15
+Levenshtein distance between hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 7
+Levenshtein distance between hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 15
+Levenshtein distance between hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p and hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p: 11
+Pairwise Levenshtein distances for hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p
+Levenshtein distance between hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p and hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p: 1
+Levenshtein distance between hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p and hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p: 13
+Levenshtein distance between hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p and hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p: 15
+Levenshtein distance between hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p and hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p: 3
+Levenshtein distance between hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p and hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p: 16
+Levenshtein distance between hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p and hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p: 2
+Levenshtein distance between hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p and hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p: 14
+Levenshtein distance between hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p and hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p: 3
+Levenshtein distance between hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p and hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p: 15
+Levenshtein distance between hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p and hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p: 2
+Levenshtein distance between hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p and hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p: 16
+Levenshtein distance between hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p and hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p: 14
+Levenshtein distance between hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p and hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p: 13
+Levenshtein distance between hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p and hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p: 2
+Levenshtein distance between hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 14
+Levenshtein distance between hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 4
+Levenshtein distance between hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p and hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p: 12
+Pairwise Levenshtein distances for hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p
+Levenshtein distance between hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p and hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p: 15
+Levenshtein distance between hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p and hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p: 4
+Levenshtein distance between hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p and hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p: 8
+Levenshtein distance between hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p and hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p: 15
+Levenshtein distance between hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p and hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p: 2
+Levenshtein distance between hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p and hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p: 15
+Levenshtein distance between hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p and hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p: 7
+Levenshtein distance between hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p and hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p: 14
+Levenshtein distance between hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p and hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p: 6
+Levenshtein distance between hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p and hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p: 16
+Levenshtein distance between hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p and hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p: 8
+Levenshtein distance between hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p and hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p: 14
+Levenshtein distance between hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p and hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p: 4
+Levenshtein distance between hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p and hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p: 16
+Levenshtein distance between hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 7
+Levenshtein distance between hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 15
+Levenshtein distance between hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p and hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p: 7
+Pairwise Levenshtein distances for hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p
+Levenshtein distance between hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p and hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p: 14
+Levenshtein distance between hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p and hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p: 2
+Levenshtein distance between hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p and hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p: 5
+Levenshtein distance between hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p and hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p: 14
+Levenshtein distance between hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p and hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p: 4
+Levenshtein distance between hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p and hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p: 14
+Levenshtein distance between hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p and hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p: 6
+Levenshtein distance between hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p and hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p: 15
+Levenshtein distance between hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p and hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p: 6
+Levenshtein distance between hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p and hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p: 15
+Levenshtein distance between hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p and hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p: 5
+Levenshtein distance between hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p and hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p: 13
+Levenshtein distance between hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p and hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p: 4
+Levenshtein distance between hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p and hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p: 14
+Levenshtein distance between hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 6
+Levenshtein distance between hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 13
+Levenshtein distance between hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p and hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p: 8
+Pairwise Levenshtein distances for hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p
+Levenshtein distance between hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p and hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p: 2
+Levenshtein distance between hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p and hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p: 14
+Levenshtein distance between hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p and hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p: 15
+Levenshtein distance between hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p and hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p: 4
+Levenshtein distance between hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p and hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p: 16
+Levenshtein distance between hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p and hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p: 3
+Levenshtein distance between hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p and hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p: 14
+Levenshtein distance between hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p and hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p: 4
+Levenshtein distance between hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p and hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p: 15
+Levenshtein distance between hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p and hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p: 3
+Levenshtein distance between hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p and hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p: 15
+Levenshtein distance between hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p and hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p: 2
+Levenshtein distance between hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p and hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p: 16
+Levenshtein distance between hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p and hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p: 14
+Levenshtein distance between hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 16
+Levenshtein distance between hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 2
+Levenshtein distance between hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p and hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p: 13
+Pairwise Levenshtein distances for hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p
+Levenshtein distance between hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p and hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p: 15
+Levenshtein distance between hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p and hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p: 6
+Levenshtein distance between hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p and hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p: 6
+Levenshtein distance between hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p and hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p: 15
+Levenshtein distance between hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p and hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p: 6
+Levenshtein distance between hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p and hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p: 15
+Levenshtein distance between hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p and hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p: 7
+Levenshtein distance between hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p and hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p: 14
+Levenshtein distance between hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p and hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p: 7
+Levenshtein distance between hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p and hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p: 14
+Levenshtein distance between hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p and hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p: 7
+Levenshtein distance between hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p and hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p: 14
+Levenshtein distance between hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p and hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p: 7
+Levenshtein distance between hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p and hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p: 6
+Levenshtein distance between hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p and hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p: 16
+Levenshtein distance between hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 15
+Levenshtein distance between hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p and hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p: 5
+Pairwise Levenshtein distances for hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p
+Levenshtein distance between hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p and hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p: 4
+Levenshtein distance between hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p and hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p: 13
+Levenshtein distance between hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p and hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p: 14
+Levenshtein distance between hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p and hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p: 3
+Levenshtein distance between hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p and hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p: 15
+Levenshtein distance between hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p and hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p: 4
+Levenshtein distance between hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p and hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p: 13
+Levenshtein distance between hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p and hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p: 6
+Levenshtein distance between hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p and hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p: 13
+Levenshtein distance between hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p and hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p: 5
+Levenshtein distance between hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p and hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p: 15
+Levenshtein distance between hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p and hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p: 4
+Levenshtein distance between hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p and hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p: 15
+Levenshtein distance between hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p and hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p: 13
+Levenshtein distance between hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p and hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p: 2
+Levenshtein distance between hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 15
+Levenshtein distance between hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p and hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p: 12
+Pairwise Levenshtein distances for hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p
+Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p: 12
+Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p: 7
+Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p: 9
+Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p: 12
+Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p: 6
+Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p: 12
+Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p: 8
+Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p: 12
+Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p: 7
+Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p: 13
+Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p: 11
+Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p: 12
+Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p: 7
+Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p: 8
+Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p: 13
+Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 5
+Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 12
+
+##Task: repeat this for all species and plot
+
+![Figure_3](https://github.com/Tigistshewafera/AP_Home_Take_Exam/assets/130226521/d5c8b45a-45ec-47dd-897b-5a433c07b0e9)
+
+ ## Question 5: What is the levenshtein distance for each let-7 miRNA across all species?
+
 
