@@ -448,7 +448,7 @@ Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p a
 
 ## Task 4: repeat this for all species and plot
 
-![Figure_3](https://github.com/Tigistshewafera/AP_Home_Take_Exam/assets/130226521/d5c8b45a-45ec-47dd-897b-5a433c07b0e9)
+![Figure_3](https://github.com/Tigistshewafera/AP_Home_Take_Exam/assets/130226521/71b36062-553b-4c35-8edb-f458ee608648)
 
  ## Question 5: What is the levenshtein distance for each let-7 miRNA across all species?
  
