@@ -776,1221 +776,2436 @@ Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p a
  
 
 Species: ami-let-7a-3p - chi-let-7a-3p | Levenshtein Distance: 2
+
 Species: ami-let-7a-3p - tch-let-7a-5p | Levenshtein Distance: 12
+
 Species: ami-let-7a-3p - tch-let-7a-3p | Levenshtein Distance: 2
+
 Species: ami-let-7a-3p - oha-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - oha-let-7a-5p | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - oha-let-7a-2-3p | Levenshtein Distance: 4
+
 Species: ami-let-7a-3p - oha-let-7a-3-3p | Levenshtein Distance: 7
+
 Species: ami-let-7a-3p - cja-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - pal-let-7a-5p | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - pal-let-7a-3p | Levenshtein Distance: 2
+
 Species: ami-let-7a-3p - pal-let-7a-2-3p | Levenshtein Distance: 8
+
 Species: ami-let-7a-3p - cgr-let-7a-2 | Levenshtein Distance: 8
+
 Species: ami-let-7a-3p - abu-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - mze-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - nbr-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - oni-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - pny-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - gmo-let-7a-5p | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - gmo-let-7a-3-3p | Levenshtein Distance: 3
+
 Species: ami-let-7a-3p - gmo-let-7a-4-3p | Levenshtein Distance: 5
+
 Species: ami-let-7a-3p - gmo-let-7a-5-3p | Levenshtein Distance: 6
+
 Species: ami-let-7a-3p - gmo-let-7a-3p | Levenshtein Distance: 7
+
 Species: ami-let-7a-3p - xla-let-7a-5p | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - xla-let-7a-3p | Levenshtein Distance: 7
+
 Species: ami-let-7a-3p - cpo-let-7a-5p | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - cpo-let-7a-3p | Levenshtein Distance: 2
+
 Species: ami-let-7a-3p - cpo-let-7a-2-3p | Levenshtein Distance: 8
+
 Species: ami-let-7a-3p - dno-let-7a-5p | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - dno-let-7a-3p | Levenshtein Distance: 2
+
 Species: ami-let-7a-3p - ocu-let-7a-5p | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - ocu-let-7a-3p | Levenshtein Distance: 2
+
 Species: ami-let-7a-3p - ocu-let-7a-2-3p | Levenshtein Distance: 7
+
 Species: ami-let-7a-3p - ppa-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - mmr-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - dma-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - nle-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - sbo-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - pha-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-3p - oga-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-2-3p - ami-let-7a-4-3p | Levenshtein Distance: 8
+
 Species: ami-let-7a-2-3p - cli-let-7a-5p | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - cli-let-7a-3p | Levenshtein Distance: 6
+
 Species: ami-let-7a-2-3p - cli-let-7a-2-3p | Levenshtein Distance: 0
+
 Species: ami-let-7a-2-3p - cli-let-7a-4-3p | Levenshtein Distance: 8
+
 Species: ami-let-7a-2-3p - pbv-let-7a-5p | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - pbv-let-7a-3p | Levenshtein Distance: 7
+
 Species: ami-let-7a-2-3p - pbv-let-7a-2-3p | Levenshtein Distance: 5
+
 Species: ami-let-7a-2-3p - chi-let-7a-5p | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - chi-let-7a-3p | Levenshtein Distance: 5
+
 Species: ami-let-7a-2-3p - tch-let-7a-5p | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - tch-let-7a-3p | Levenshtein Distance: 5
+
 Species: ami-let-7a-2-3p - oha-let-7a | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - oha-let-7a-5p | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - oha-let-7a-2-3p | Levenshtein Distance: 9
+
 Species: ami-let-7a-2-3p - oha-let-7a-3-3p | Levenshtein Distance: 11
+
 Species: ami-let-7a-2-3p - cja-let-7a | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - pal-let-7a-5p | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - pal-let-7a-3p | Levenshtein Distance: 5
+
 Species: ami-let-7a-2-3p - pal-let-7a-2-3p | Levenshtein Distance: 1
+
 Species: ami-let-7a-2-3p - cgr-let-7a-2 | Levenshtein Distance: 1
+
 Species: ami-let-7a-2-3p - abu-let-7a | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - mze-let-7a | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - nbr-let-7a | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - oni-let-7a | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - pny-let-7a | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - gmo-let-7a-5p | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - gmo-let-7a-3-3p | Levenshtein Distance: 6
+
 Species: ami-let-7a-2-3p - gmo-let-7a-4-3p | Levenshtein Distance: 8
+
 Species: ami-let-7a-2-3p - gmo-let-7a-5-3p | Levenshtein Distance: 8
+
 Species: ami-let-7a-2-3p - gmo-let-7a-3p | Levenshtein Distance: 2
+
 Species: ami-let-7a-2-3p - xla-let-7a-5p | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - xla-let-7a-3p | Levenshtein Distance: 2
+
 Species: ami-let-7a-2-3p - cpo-let-7a-5p | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - cpo-let-7a-3p | Levenshtein Distance: 5
+
 Species: ami-let-7a-2-3p - cpo-let-7a-2-3p | Levenshtein Distance: 1
+
 Species: ami-let-7a-2-3p - dno-let-7a-5p | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - dno-let-7a-3p | Levenshtein Distance: 5
+
 Species: ami-let-7a-2-3p - ocu-let-7a-5p | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - ocu-let-7a-3p | Levenshtein Distance: 5
+
 Species: ami-let-7a-2-3p - ocu-let-7a-2-3p | Levenshtein Distance: 0
+
 Species: ami-let-7a-2-3p - ppa-let-7a | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - mmr-let-7a | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - dma-let-7a | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - nle-let-7a | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - sbo-let-7a | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - pha-let-7a | Levenshtein Distance: 15
+
 Species: ami-let-7a-2-3p - oga-let-7a | Levenshtein Distance: 15
+
 Species: ami-let-7a-4-3p - cli-let-7a-5p | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - cli-let-7a-3p | Levenshtein Distance: 4
+
 Species: ami-let-7a-4-3p - cli-let-7a-2-3p | Levenshtein Distance: 8
+
 Species: ami-let-7a-4-3p - cli-let-7a-4-3p | Levenshtein Distance: 2
+
 Species: ami-let-7a-4-3p - pbv-let-7a-5p | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - pbv-let-7a-3p | Levenshtein Distance: 3
+
 Species: ami-let-7a-4-3p - pbv-let-7a-2-3p | Levenshtein Distance: 5
+
 Species: ami-let-7a-4-3p - chi-let-7a-5p | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - chi-let-7a-3p | Levenshtein Distance: 5
+
 Species: ami-let-7a-4-3p - tch-let-7a-5p | Levenshtein Distance: 12
+
 Species: ami-let-7a-4-3p - tch-let-7a-3p | Levenshtein Distance: 5
+
 Species: ami-let-7a-4-3p - oha-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - oha-let-7a-5p | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - oha-let-7a-2-3p | Levenshtein Distance: 7
+
 Species: ami-let-7a-4-3p - oha-let-7a-3-3p | Levenshtein Distance: 4
+
 Species: ami-let-7a-4-3p - cja-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - pal-let-7a-5p | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - pal-let-7a-3p | Levenshtein Distance: 5
+
 Species: ami-let-7a-4-3p - pal-let-7a-2-3p | Levenshtein Distance: 7
+
 Species: ami-let-7a-4-3p - cgr-let-7a-2 | Levenshtein Distance: 7
+
 Species: ami-let-7a-4-3p - abu-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - mze-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - nbr-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - oni-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - pny-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - gmo-let-7a-5p | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - gmo-let-7a-3-3p | Levenshtein Distance: 6
+
 Species: ami-let-7a-4-3p - gmo-let-7a-4-3p | Levenshtein Distance: 3
+
 Species: ami-let-7a-4-3p - gmo-let-7a-5-3p | Levenshtein Distance: 2
+
 Species: ami-let-7a-4-3p - gmo-let-7a-3p | Levenshtein Distance: 6
+
 Species: ami-let-7a-4-3p - xla-let-7a-5p | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - xla-let-7a-3p | Levenshtein Distance: 8
+
 Species: ami-let-7a-4-3p - cpo-let-7a-5p | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - cpo-let-7a-3p | Levenshtein Distance: 5
+
 Species: ami-let-7a-4-3p - cpo-let-7a-2-3p | Levenshtein Distance: 7
+
 Species: ami-let-7a-4-3p - dno-let-7a-5p | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - dno-let-7a-3p | Levenshtein Distance: 5
+
 Species: ami-let-7a-4-3p - ocu-let-7a-5p | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - ocu-let-7a-3p | Levenshtein Distance: 5
+
 Species: ami-let-7a-4-3p - ocu-let-7a-2-3p | Levenshtein Distance: 8
+
 Species: ami-let-7a-4-3p - ppa-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - mmr-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - dma-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - nle-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - sbo-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - pha-let-7a | Levenshtein Distance: 13
+
 Species: ami-let-7a-4-3p - oga-let-7a | Levenshtein Distance: 13
+
 Species: cli-let-7a-5p - cli-let-7a-3p | Levenshtein Distance: 14
+
 Species: cli-let-7a-5p - cli-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: cli-let-7a-5p - cli-let-7a-4-3p | Levenshtein Distance: 13
+
 Species: cli-let-7a-5p - pbv-let-7a-5p | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - pbv-let-7a-3p | Levenshtein Distance: 13
+
 Species: cli-let-7a-5p - pbv-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: cli-let-7a-5p - chi-let-7a-5p | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - chi-let-7a-3p | Levenshtein Distance: 15
+
 Species: cli-let-7a-5p - tch-let-7a-5p | Levenshtein Distance: 2
+
 Species: cli-let-7a-5p - tch-let-7a-3p | Levenshtein Distance: 15
+
 Species: cli-let-7a-5p - oha-let-7a | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - oha-let-7a-5p | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - oha-let-7a-2-3p | Levenshtein Distance: 14
+
 Species: cli-let-7a-5p - oha-let-7a-3-3p | Levenshtein Distance: 12
+
 Species: cli-let-7a-5p - cja-let-7a | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - pal-let-7a-5p | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - pal-let-7a-3p | Levenshtein Distance: 15
+
 Species: cli-let-7a-5p - pal-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: cli-let-7a-5p - cgr-let-7a-2 | Levenshtein Distance: 15
+
 Species: cli-let-7a-5p - abu-let-7a | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - mze-let-7a | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - nbr-let-7a | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - oni-let-7a | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - pny-let-7a | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - gmo-let-7a-5p | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - gmo-let-7a-3-3p | Levenshtein Distance: 14
+
 Species: cli-let-7a-5p - gmo-let-7a-4-3p | Levenshtein Distance: 14
+
 Species: cli-let-7a-5p - gmo-let-7a-5-3p | Levenshtein Distance: 14
+
 Species: cli-let-7a-5p - gmo-let-7a-3p | Levenshtein Distance: 14
+
 Species: cli-let-7a-5p - xla-let-7a-5p | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - xla-let-7a-3p | Levenshtein Distance: 14
+
 Species: cli-let-7a-5p - cpo-let-7a-5p | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - cpo-let-7a-3p | Levenshtein Distance: 15
+
 Species: cli-let-7a-5p - cpo-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: cli-let-7a-5p - dno-let-7a-5p | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - dno-let-7a-3p | Levenshtein Distance: 15
+
 Species: cli-let-7a-5p - ocu-let-7a-5p | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - ocu-let-7a-3p | Levenshtein Distance: 15
+
 Species: cli-let-7a-5p - ocu-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: cli-let-7a-5p - ppa-let-7a | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - mmr-let-7a | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - dma-let-7a | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - nle-let-7a | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - sbo-let-7a | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - pha-let-7a | Levenshtein Distance: 0
+
 Species: cli-let-7a-5p - oga-let-7a | Levenshtein Distance: 0
+
 Species: cli-let-7a-3p - cli-let-7a-2-3p | Levenshtein Distance: 6
+
 Species: cli-let-7a-3p - cli-let-7a-4-3p | Levenshtein Distance: 5
+
 Species: cli-let-7a-3p - pbv-let-7a-5p | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - pbv-let-7a-3p | Levenshtein Distance: 1
+
 Species: cli-let-7a-3p - pbv-let-7a-2-3p | Levenshtein Distance: 1
+
 Species: cli-let-7a-3p - chi-let-7a-5p | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - chi-let-7a-3p | Levenshtein Distance: 1
+
 Species: cli-let-7a-3p - tch-let-7a-5p | Levenshtein Distance: 13
+
 Species: cli-let-7a-3p - tch-let-7a-3p | Levenshtein Distance: 1
+
 Species: cli-let-7a-3p - oha-let-7a | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - oha-let-7a-5p | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - oha-let-7a-2-3p | Levenshtein Distance: 3
+
 Species: cli-let-7a-3p - oha-let-7a-3-3p | Levenshtein Distance: 8
+
 Species: cli-let-7a-3p - cja-let-7a | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - pal-let-7a-5p | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - pal-let-7a-3p | Levenshtein Distance: 1
+
 Species: cli-let-7a-3p - pal-let-7a-2-3p | Levenshtein Distance: 7
+
 Species: cli-let-7a-3p - cgr-let-7a-2 | Levenshtein Distance: 7
+
 Species: cli-let-7a-3p - abu-let-7a | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - mze-let-7a | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - nbr-let-7a | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - oni-let-7a | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - pny-let-7a | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - gmo-let-7a-5p | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - gmo-let-7a-3-3p | Levenshtein Distance: 2
+
 Species: cli-let-7a-3p - gmo-let-7a-4-3p | Levenshtein Distance: 4
+
 Species: cli-let-7a-3p - gmo-let-7a-5-3p | Levenshtein Distance: 5
+
 Species: cli-let-7a-3p - gmo-let-7a-3p | Levenshtein Distance: 6
+
 Species: cli-let-7a-3p - xla-let-7a-5p | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - xla-let-7a-3p | Levenshtein Distance: 6
+
 Species: cli-let-7a-3p - cpo-let-7a-5p | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - cpo-let-7a-3p | Levenshtein Distance: 1
+
 Species: cli-let-7a-3p - cpo-let-7a-2-3p | Levenshtein Distance: 7
+
 Species: cli-let-7a-3p - dno-let-7a-5p | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - dno-let-7a-3p | Levenshtein Distance: 1
+
 Species: cli-let-7a-3p - ocu-let-7a-5p | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - ocu-let-7a-3p | Levenshtein Distance: 1
+
 Species: cli-let-7a-3p - ocu-let-7a-2-3p | Levenshtein Distance: 6
+
 Species: cli-let-7a-3p - ppa-let-7a | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - mmr-let-7a | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - dma-let-7a | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - nle-let-7a | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - sbo-let-7a | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - pha-let-7a | Levenshtein Distance: 14
+
 Species: cli-let-7a-3p - oga-let-7a | Levenshtein Distance: 14
+
 Species: cli-let-7a-2-3p - cli-let-7a-4-3p | Levenshtein Distance: 8
+
 Species: cli-let-7a-2-3p - pbv-let-7a-5p | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - pbv-let-7a-3p | Levenshtein Distance: 7
+
 Species: cli-let-7a-2-3p - pbv-let-7a-2-3p | Levenshtein Distance: 5
+
 Species: cli-let-7a-2-3p - chi-let-7a-5p | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - chi-let-7a-3p | Levenshtein Distance: 5
+
 Species: cli-let-7a-2-3p - tch-let-7a-5p | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - tch-let-7a-3p | Levenshtein Distance: 5
+
 Species: cli-let-7a-2-3p - oha-let-7a | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - oha-let-7a-5p | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - oha-let-7a-2-3p | Levenshtein Distance: 9
+
 Species: cli-let-7a-2-3p - oha-let-7a-3-3p | Levenshtein Distance: 11
+
 Species: cli-let-7a-2-3p - cja-let-7a | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - pal-let-7a-5p | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - pal-let-7a-3p | Levenshtein Distance: 5
+
 Species: cli-let-7a-2-3p - pal-let-7a-2-3p | Levenshtein Distance: 1
+
 Species: cli-let-7a-2-3p - cgr-let-7a-2 | Levenshtein Distance: 1
+
 Species: cli-let-7a-2-3p - abu-let-7a | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - mze-let-7a | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - nbr-let-7a | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - oni-let-7a | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - pny-let-7a | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - gmo-let-7a-5p | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - gmo-let-7a-3-3p | Levenshtein Distance: 6
+
 Species: cli-let-7a-2-3p - gmo-let-7a-4-3p | Levenshtein Distance: 8
+
 Species: cli-let-7a-2-3p - gmo-let-7a-5-3p | Levenshtein Distance: 8
+
 Species: cli-let-7a-2-3p - gmo-let-7a-3p | Levenshtein Distance: 2
+
 Species: cli-let-7a-2-3p - xla-let-7a-5p | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - xla-let-7a-3p | Levenshtein Distance: 2
+
 Species: cli-let-7a-2-3p - cpo-let-7a-5p | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - cpo-let-7a-3p | Levenshtein Distance: 5
+
 Species: cli-let-7a-2-3p - cpo-let-7a-2-3p | Levenshtein Distance: 1
+
 Species: cli-let-7a-2-3p - dno-let-7a-5p | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - dno-let-7a-3p | Levenshtein Distance: 5
+
 Species: cli-let-7a-2-3p - ocu-let-7a-5p | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - ocu-let-7a-3p | Levenshtein Distance: 5
+
 Species: cli-let-7a-2-3p - ocu-let-7a-2-3p | Levenshtein Distance: 0
+
 Species: cli-let-7a-2-3p - ppa-let-7a | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - mmr-let-7a | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - dma-let-7a | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - nle-let-7a | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - sbo-let-7a | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - pha-let-7a | Levenshtein Distance: 15
+
 Species: cli-let-7a-2-3p - oga-let-7a | Levenshtein Distance: 15
+
 Species: cli-let-7a-4-3p - pbv-let-7a-5p | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - pbv-let-7a-3p | Levenshtein Distance: 4
+
 Species: cli-let-7a-4-3p - pbv-let-7a-2-3p | Levenshtein Distance: 5
+
 Species: cli-let-7a-4-3p - chi-let-7a-5p | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - chi-let-7a-3p | Levenshtein Distance: 5
+
 Species: cli-let-7a-4-3p - tch-let-7a-5p | Levenshtein Distance: 12
+
 Species: cli-let-7a-4-3p - tch-let-7a-3p | Levenshtein Distance: 5
+
 Species: cli-let-7a-4-3p - oha-let-7a | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - oha-let-7a-5p | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - oha-let-7a-2-3p | Levenshtein Distance: 8
+
 Species: cli-let-7a-4-3p - oha-let-7a-3-3p | Levenshtein Distance: 6
+
 Species: cli-let-7a-4-3p - cja-let-7a | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - pal-let-7a-5p | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - pal-let-7a-3p | Levenshtein Distance: 5
+
 Species: cli-let-7a-4-3p - pal-let-7a-2-3p | Levenshtein Distance: 7
+
 Species: cli-let-7a-4-3p - cgr-let-7a-2 | Levenshtein Distance: 7
+
 Species: cli-let-7a-4-3p - abu-let-7a | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - mze-let-7a | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - nbr-let-7a | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - oni-let-7a | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - pny-let-7a | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - gmo-let-7a-5p | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - gmo-let-7a-3-3p | Levenshtein Distance: 7
+
 Species: cli-let-7a-4-3p - gmo-let-7a-4-3p | Levenshtein Distance: 2
+
 Species: cli-let-7a-4-3p - gmo-let-7a-5-3p | Levenshtein Distance: 1
+
 Species: cli-let-7a-4-3p - gmo-let-7a-3p | Levenshtein Distance: 8
+
 Species: cli-let-7a-4-3p - xla-let-7a-5p | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - xla-let-7a-3p | Levenshtein Distance: 8
+
 Species: cli-let-7a-4-3p - cpo-let-7a-5p | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - cpo-let-7a-3p | Levenshtein Distance: 5
+
 Species: cli-let-7a-4-3p - cpo-let-7a-2-3p | Levenshtein Distance: 7
+
 Species: cli-let-7a-4-3p - dno-let-7a-5p | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - dno-let-7a-3p | Levenshtein Distance: 5
+
 Species: cli-let-7a-4-3p - ocu-let-7a-5p | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - ocu-let-7a-3p | Levenshtein Distance: 5
+
 Species: cli-let-7a-4-3p - ocu-let-7a-2-3p | Levenshtein Distance: 8
+
 Species: cli-let-7a-4-3p - ppa-let-7a | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - mmr-let-7a | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - dma-let-7a | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - nle-let-7a | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - sbo-let-7a | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - pha-let-7a | Levenshtein Distance: 13
+
 Species: cli-let-7a-4-3p - oga-let-7a | Levenshtein Distance: 13
+
 Species: pbv-let-7a-5p - pbv-let-7a-3p | Levenshtein Distance: 13
+
 Species: pbv-let-7a-5p - pbv-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: pbv-let-7a-5p - chi-let-7a-5p | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - chi-let-7a-3p | Levenshtein Distance: 15
+
 Species: pbv-let-7a-5p - tch-let-7a-5p | Levenshtein Distance: 2
+
 Species: pbv-let-7a-5p - tch-let-7a-3p | Levenshtein Distance: 15
+
 Species: pbv-let-7a-5p - oha-let-7a | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - oha-let-7a-5p | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - oha-let-7a-2-3p | Levenshtein Distance: 14
+
 Species: pbv-let-7a-5p - oha-let-7a-3-3p | Levenshtein Distance: 12
+
 Species: pbv-let-7a-5p - cja-let-7a | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - pal-let-7a-5p | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - pal-let-7a-3p | Levenshtein Distance: 15
+
 Species: pbv-let-7a-5p - pal-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: pbv-let-7a-5p - cgr-let-7a-2 | Levenshtein Distance: 15
+
 Species: pbv-let-7a-5p - abu-let-7a | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - mze-let-7a | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - nbr-let-7a | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - oni-let-7a | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - pny-let-7a | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - gmo-let-7a-5p | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - gmo-let-7a-3-3p | Levenshtein Distance: 14
+
 Species: pbv-let-7a-5p - gmo-let-7a-4-3p | Levenshtein Distance: 14
+
 Species: pbv-let-7a-5p - gmo-let-7a-5-3p | Levenshtein Distance: 14
+
 Species: pbv-let-7a-5p - gmo-let-7a-3p | Levenshtein Distance: 14
+
 Species: pbv-let-7a-5p - xla-let-7a-5p | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - xla-let-7a-3p | Levenshtein Distance: 14
+
 Species: pbv-let-7a-5p - cpo-let-7a-5p | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - cpo-let-7a-3p | Levenshtein Distance: 15
+
 Species: pbv-let-7a-5p - cpo-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: pbv-let-7a-5p - dno-let-7a-5p | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - dno-let-7a-3p | Levenshtein Distance: 15
+
 Species: pbv-let-7a-5p - ocu-let-7a-5p | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - ocu-let-7a-3p | Levenshtein Distance: 15
+
 Species: pbv-let-7a-5p - ocu-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: pbv-let-7a-5p - ppa-let-7a | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - mmr-let-7a | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - dma-let-7a | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - nle-let-7a | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - sbo-let-7a | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - pha-let-7a | Levenshtein Distance: 0
+
 Species: pbv-let-7a-5p - oga-let-7a | Levenshtein Distance: 0
+
 Species: pbv-let-7a-3p - pbv-let-7a-2-3p | Levenshtein Distance: 2
+
 Species: pbv-let-7a-3p - chi-let-7a-5p | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - chi-let-7a-3p | Levenshtein Distance: 2
+
 Species: pbv-let-7a-3p - tch-let-7a-5p | Levenshtein Distance: 12
+
 Species: pbv-let-7a-3p - tch-let-7a-3p | Levenshtein Distance: 2
+
 Species: pbv-let-7a-3p - oha-let-7a | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - oha-let-7a-5p | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - oha-let-7a-2-3p | Levenshtein Distance: 4
+
 Species: pbv-let-7a-3p - oha-let-7a-3-3p | Levenshtein Distance: 7
+
 Species: pbv-let-7a-3p - cja-let-7a | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - pal-let-7a-5p | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - pal-let-7a-3p | Levenshtein Distance: 2
+
 Species: pbv-let-7a-3p - pal-let-7a-2-3p | Levenshtein Distance: 6
+
 Species: pbv-let-7a-3p - cgr-let-7a-2 | Levenshtein Distance: 6
+
 Species: pbv-let-7a-3p - abu-let-7a | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - mze-let-7a | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - nbr-let-7a | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - oni-let-7a | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - pny-let-7a | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - gmo-let-7a-5p | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - gmo-let-7a-3-3p | Levenshtein Distance: 3
+
 Species: pbv-let-7a-3p - gmo-let-7a-4-3p | Levenshtein Distance: 3
+
 Species: pbv-let-7a-3p - gmo-let-7a-5-3p | Levenshtein Distance: 4
+
 Species: pbv-let-7a-3p - gmo-let-7a-3p | Levenshtein Distance: 5
+
 Species: pbv-let-7a-3p - xla-let-7a-5p | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - xla-let-7a-3p | Levenshtein Distance: 5
+
 Species: pbv-let-7a-3p - cpo-let-7a-5p | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - cpo-let-7a-3p | Levenshtein Distance: 2
+
 Species: pbv-let-7a-3p - cpo-let-7a-2-3p | Levenshtein Distance: 6
+
 Species: pbv-let-7a-3p - dno-let-7a-5p | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - dno-let-7a-3p | Levenshtein Distance: 2
+
 Species: pbv-let-7a-3p - ocu-let-7a-5p | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - ocu-let-7a-3p | Levenshtein Distance: 2
+
 Species: pbv-let-7a-3p - ocu-let-7a-2-3p | Levenshtein Distance: 7
+
 Species: pbv-let-7a-3p - ppa-let-7a | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - mmr-let-7a | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - dma-let-7a | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - nle-let-7a | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - sbo-let-7a | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - pha-let-7a | Levenshtein Distance: 13
+
 Species: pbv-let-7a-3p - oga-let-7a | Levenshtein Distance: 13
+
 Species: pbv-let-7a-2-3p - chi-let-7a-5p | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - chi-let-7a-3p | Levenshtein Distance: 0
+
 Species: pbv-let-7a-2-3p - tch-let-7a-5p | Levenshtein Distance: 14
+
 Species: pbv-let-7a-2-3p - tch-let-7a-3p | Levenshtein Distance: 0
+
 Species: pbv-let-7a-2-3p - oha-let-7a | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - oha-let-7a-5p | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - oha-let-7a-2-3p | Levenshtein Distance: 4
+
 Species: pbv-let-7a-2-3p - oha-let-7a-3-3p | Levenshtein Distance: 9
+
 Species: pbv-let-7a-2-3p - cja-let-7a | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - pal-let-7a-5p | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - pal-let-7a-3p | Levenshtein Distance: 0
+
 Species: pbv-let-7a-2-3p - pal-let-7a-2-3p | Levenshtein Distance: 6
+
 Species: pbv-let-7a-2-3p - cgr-let-7a-2 | Levenshtein Distance: 6
+
 Species: pbv-let-7a-2-3p - abu-let-7a | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - mze-let-7a | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - nbr-let-7a | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - oni-let-7a | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - pny-let-7a | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - gmo-let-7a-5p | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - gmo-let-7a-3-3p | Levenshtein Distance: 3
+
 Species: pbv-let-7a-2-3p - gmo-let-7a-4-3p | Levenshtein Distance: 4
+
 Species: pbv-let-7a-2-3p - gmo-let-7a-5-3p | Levenshtein Distance: 4
+
 Species: pbv-let-7a-2-3p - gmo-let-7a-3p | Levenshtein Distance: 7
+
 Species: pbv-let-7a-2-3p - xla-let-7a-5p | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - xla-let-7a-3p | Levenshtein Distance: 5
+
 Species: pbv-let-7a-2-3p - cpo-let-7a-5p | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - cpo-let-7a-3p | Levenshtein Distance: 0
+
 Species: pbv-let-7a-2-3p - cpo-let-7a-2-3p | Levenshtein Distance: 6
+
 Species: pbv-let-7a-2-3p - dno-let-7a-5p | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - dno-let-7a-3p | Levenshtein Distance: 0
+
 Species: pbv-let-7a-2-3p - ocu-let-7a-5p | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - ocu-let-7a-3p | Levenshtein Distance: 0
+
 Species: pbv-let-7a-2-3p - ocu-let-7a-2-3p | Levenshtein Distance: 5
+
 Species: pbv-let-7a-2-3p - ppa-let-7a | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - mmr-let-7a | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - dma-let-7a | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - nle-let-7a | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - sbo-let-7a | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - pha-let-7a | Levenshtein Distance: 15
+
 Species: pbv-let-7a-2-3p - oga-let-7a | Levenshtein Distance: 15
+
 Species: chi-let-7a-5p - chi-let-7a-3p | Levenshtein Distance: 15
+
 Species: chi-let-7a-5p - tch-let-7a-5p | Levenshtein Distance: 2
+
 Species: chi-let-7a-5p - tch-let-7a-3p | Levenshtein Distance: 15
+
 Species: chi-let-7a-5p - oha-let-7a | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - oha-let-7a-5p | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - oha-let-7a-2-3p | Levenshtein Distance: 14
+
 Species: chi-let-7a-5p - oha-let-7a-3-3p | Levenshtein Distance: 12
+
 Species: chi-let-7a-5p - cja-let-7a | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - pal-let-7a-5p | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - pal-let-7a-3p | Levenshtein Distance: 15
+
 Species: chi-let-7a-5p - pal-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: chi-let-7a-5p - cgr-let-7a-2 | Levenshtein Distance: 15
+
 Species: chi-let-7a-5p - abu-let-7a | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - mze-let-7a | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - nbr-let-7a | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - oni-let-7a | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - pny-let-7a | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - gmo-let-7a-5p | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - gmo-let-7a-3-3p | Levenshtein Distance: 14
+
 Species: chi-let-7a-5p - gmo-let-7a-4-3p | Levenshtein Distance: 14
+
 Species: chi-let-7a-5p - gmo-let-7a-5-3p | Levenshtein Distance: 14
+
 Species: chi-let-7a-5p - gmo-let-7a-3p | Levenshtein Distance: 14
+
 Species: chi-let-7a-5p - xla-let-7a-5p | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - xla-let-7a-3p | Levenshtein Distance: 14
+
 Species: chi-let-7a-5p - cpo-let-7a-5p | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - cpo-let-7a-3p | Levenshtein Distance: 15
+
 Species: chi-let-7a-5p - cpo-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: chi-let-7a-5p - dno-let-7a-5p | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - dno-let-7a-3p | Levenshtein Distance: 15
+
 Species: chi-let-7a-5p - ocu-let-7a-5p | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - ocu-let-7a-3p | Levenshtein Distance: 15
+
 Species: chi-let-7a-5p - ocu-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: chi-let-7a-5p - ppa-let-7a | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - mmr-let-7a | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - dma-let-7a | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - nle-let-7a | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - sbo-let-7a | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - pha-let-7a | Levenshtein Distance: 0
+
 Species: chi-let-7a-5p - oga-let-7a | Levenshtein Distance: 0
+
 Species: chi-let-7a-3p - tch-let-7a-5p | Levenshtein Distance: 14
+
 Species: chi-let-7a-3p - tch-let-7a-3p | Levenshtein Distance: 0
+
 Species: chi-let-7a-3p - oha-let-7a | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - oha-let-7a-5p | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - oha-let-7a-2-3p | Levenshtein Distance: 4
+
 Species: chi-let-7a-3p - oha-let-7a-3-3p | Levenshtein Distance: 9
+
 Species: chi-let-7a-3p - cja-let-7a | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - pal-let-7a-5p | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - pal-let-7a-3p | Levenshtein Distance: 0
+
 Species: chi-let-7a-3p - pal-let-7a-2-3p | Levenshtein Distance: 6
+
 Species: chi-let-7a-3p - cgr-let-7a-2 | Levenshtein Distance: 6
+
 Species: chi-let-7a-3p - abu-let-7a | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - mze-let-7a | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - nbr-let-7a | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - oni-let-7a | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - pny-let-7a | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - gmo-let-7a-5p | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - gmo-let-7a-3-3p | Levenshtein Distance: 3
+
 Species: chi-let-7a-3p - gmo-let-7a-4-3p | Levenshtein Distance: 4
+
 Species: chi-let-7a-3p - gmo-let-7a-5-3p | Levenshtein Distance: 4
+
 Species: chi-let-7a-3p - gmo-let-7a-3p | Levenshtein Distance: 7
+
 Species: chi-let-7a-3p - xla-let-7a-5p | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - xla-let-7a-3p | Levenshtein Distance: 5
+
 Species: chi-let-7a-3p - cpo-let-7a-5p | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - cpo-let-7a-3p | Levenshtein Distance: 0
+
 Species: chi-let-7a-3p - cpo-let-7a-2-3p | Levenshtein Distance: 6
+
 Species: chi-let-7a-3p - dno-let-7a-5p | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - dno-let-7a-3p | Levenshtein Distance: 0
+
 Species: chi-let-7a-3p - ocu-let-7a-5p | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - ocu-let-7a-3p | Levenshtein Distance: 0
+
 Species: chi-let-7a-3p - ocu-let-7a-2-3p | Levenshtein Distance: 5
+
 Species: chi-let-7a-3p - ppa-let-7a | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - mmr-let-7a | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - dma-let-7a | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - nle-let-7a | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - sbo-let-7a | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - pha-let-7a | Levenshtein Distance: 15
+
 Species: chi-let-7a-3p - oga-let-7a | Levenshtein Distance: 15
+
 Species: tch-let-7a-5p - tch-let-7a-3p | Levenshtein Distance: 14
+
 Species: tch-let-7a-5p - oha-let-7a | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - oha-let-7a-5p | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - oha-let-7a-2-3p | Levenshtein Distance: 12
+
 Species: tch-let-7a-5p - oha-let-7a-3-3p | Levenshtein Distance: 10
+
 Species: tch-let-7a-5p - cja-let-7a | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - pal-let-7a-5p | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - pal-let-7a-3p | Levenshtein Distance: 14
+
 Species: tch-let-7a-5p - pal-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: tch-let-7a-5p - cgr-let-7a-2 | Levenshtein Distance: 15
+
 Species: tch-let-7a-5p - abu-let-7a | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - mze-let-7a | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - nbr-let-7a | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - oni-let-7a | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - pny-let-7a | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - gmo-let-7a-5p | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - gmo-let-7a-3-3p | Levenshtein Distance: 13
+
 Species: tch-let-7a-5p - gmo-let-7a-4-3p | Levenshtein Distance: 13
+
 Species: tch-let-7a-5p - gmo-let-7a-5-3p | Levenshtein Distance: 13
+
 Species: tch-let-7a-5p - gmo-let-7a-3p | Levenshtein Distance: 14
+
 Species: tch-let-7a-5p - xla-let-7a-5p | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - xla-let-7a-3p | Levenshtein Distance: 14
+
 Species: tch-let-7a-5p - cpo-let-7a-5p | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - cpo-let-7a-3p | Levenshtein Distance: 14
+
 Species: tch-let-7a-5p - cpo-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: tch-let-7a-5p - dno-let-7a-5p | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - dno-let-7a-3p | Levenshtein Distance: 14
+
 Species: tch-let-7a-5p - ocu-let-7a-5p | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - ocu-let-7a-3p | Levenshtein Distance: 14
+
 Species: tch-let-7a-5p - ocu-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: tch-let-7a-5p - ppa-let-7a | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - mmr-let-7a | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - dma-let-7a | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - nle-let-7a | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - sbo-let-7a | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - pha-let-7a | Levenshtein Distance: 2
+
 Species: tch-let-7a-5p - oga-let-7a | Levenshtein Distance: 2
+
 Species: tch-let-7a-3p - oha-let-7a | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - oha-let-7a-5p | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - oha-let-7a-2-3p | Levenshtein Distance: 4
+
 Species: tch-let-7a-3p - oha-let-7a-3-3p | Levenshtein Distance: 9
+
 Species: tch-let-7a-3p - cja-let-7a | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - pal-let-7a-5p | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - pal-let-7a-3p | Levenshtein Distance: 0
+
 Species: tch-let-7a-3p - pal-let-7a-2-3p | Levenshtein Distance: 6
+
 Species: tch-let-7a-3p - cgr-let-7a-2 | Levenshtein Distance: 6
+
 Species: tch-let-7a-3p - abu-let-7a | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - mze-let-7a | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - nbr-let-7a | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - oni-let-7a | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - pny-let-7a | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - gmo-let-7a-5p | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - gmo-let-7a-3-3p | Levenshtein Distance: 3
+
 Species: tch-let-7a-3p - gmo-let-7a-4-3p | Levenshtein Distance: 4
+
 Species: tch-let-7a-3p - gmo-let-7a-5-3p | Levenshtein Distance: 4
+
 Species: tch-let-7a-3p - gmo-let-7a-3p | Levenshtein Distance: 7
+
 Species: tch-let-7a-3p - xla-let-7a-5p | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - xla-let-7a-3p | Levenshtein Distance: 5
+
 Species: tch-let-7a-3p - cpo-let-7a-5p | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - cpo-let-7a-3p | Levenshtein Distance: 0
+
 Species: tch-let-7a-3p - cpo-let-7a-2-3p | Levenshtein Distance: 6
+
 Species: tch-let-7a-3p - dno-let-7a-5p | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - dno-let-7a-3p | Levenshtein Distance: 0
+
 Species: tch-let-7a-3p - ocu-let-7a-5p | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - ocu-let-7a-3p | Levenshtein Distance: 0
+
 Species: tch-let-7a-3p - ocu-let-7a-2-3p | Levenshtein Distance: 5
+
 Species: tch-let-7a-3p - ppa-let-7a | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - mmr-let-7a | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - dma-let-7a | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - nle-let-7a | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - sbo-let-7a | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - pha-let-7a | Levenshtein Distance: 15
+
 Species: tch-let-7a-3p - oga-let-7a | Levenshtein Distance: 15
+
 Species: oha-let-7a - oha-let-7a-5p | Levenshtein Distance: 0
+
 Species: oha-let-7a - oha-let-7a-2-3p | Levenshtein Distance: 14
+
 Species: oha-let-7a - oha-let-7a-3-3p | Levenshtein Distance: 12
+
 Species: oha-let-7a - cja-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a - pal-let-7a-5p | Levenshtein Distance: 0
+
 Species: oha-let-7a - pal-let-7a-3p | Levenshtein Distance: 15
+
 Species: oha-let-7a - pal-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: oha-let-7a - cgr-let-7a-2 | Levenshtein Distance: 15
+
 Species: oha-let-7a - abu-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a - mze-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a - nbr-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a - oni-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a - pny-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a - gmo-let-7a-5p | Levenshtein Distance: 0
+
 Species: oha-let-7a - gmo-let-7a-3-3p | Levenshtein Distance: 14
+
 Species: oha-let-7a - gmo-let-7a-4-3p | Levenshtein Distance: 14
+
 Species: oha-let-7a - gmo-let-7a-5-3p | Levenshtein Distance: 14
+
 Species: oha-let-7a - gmo-let-7a-3p | Levenshtein Distance: 14
+
 Species: oha-let-7a - xla-let-7a-5p | Levenshtein Distance: 0
+
 Species: oha-let-7a - xla-let-7a-3p | Levenshtein Distance: 14
+
 Species: oha-let-7a - cpo-let-7a-5p | Levenshtein Distance: 0
+
 Species: oha-let-7a - cpo-let-7a-3p | Levenshtein Distance: 15
+
 Species: oha-let-7a - cpo-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: oha-let-7a - dno-let-7a-5p | Levenshtein Distance: 0
+
 Species: oha-let-7a - dno-let-7a-3p | Levenshtein Distance: 15
+
 Species: oha-let-7a - ocu-let-7a-5p | Levenshtein Distance: 0
+
 Species: oha-let-7a - ocu-let-7a-3p | Levenshtein Distance: 15
+
 Species: oha-let-7a - ocu-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: oha-let-7a - ppa-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a - mmr-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a - dma-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a - nle-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a - sbo-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a - pha-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a - oga-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a-5p - oha-let-7a-2-3p | Levenshtein Distance: 14
+
 Species: oha-let-7a-5p - oha-let-7a-3-3p | Levenshtein Distance: 12
+
 Species: oha-let-7a-5p - cja-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a-5p - pal-let-7a-5p | Levenshtein Distance: 0
+
 Species: oha-let-7a-5p - pal-let-7a-3p | Levenshtein Distance: 15
+
 Species: oha-let-7a-5p - pal-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: oha-let-7a-5p - cgr-let-7a-2 | Levenshtein Distance: 15
+
 Species: oha-let-7a-5p - abu-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a-5p - mze-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a-5p - nbr-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a-5p - oni-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a-5p - pny-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a-5p - gmo-let-7a-5p | Levenshtein Distance: 0
+
 Species: oha-let-7a-5p - gmo-let-7a-3-3p | Levenshtein Distance: 14
+
 Species: oha-let-7a-5p - gmo-let-7a-4-3p | Levenshtein Distance: 14
+
 Species: oha-let-7a-5p - gmo-let-7a-5-3p | Levenshtein Distance: 14
+
 Species: oha-let-7a-5p - gmo-let-7a-3p | Levenshtein Distance: 14
 Species: oha-let-7a-5p - xla-let-7a-5p | Levenshtein Distance: 0
+
 Species: oha-let-7a-5p - xla-let-7a-3p | Levenshtein Distance: 14
+
 Species: oha-let-7a-5p - cpo-let-7a-5p | Levenshtein Distance: 0
+
 Species: oha-let-7a-5p - cpo-let-7a-3p | Levenshtein Distance: 15
+
 Species: oha-let-7a-5p - cpo-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: oha-let-7a-5p - dno-let-7a-5p | Levenshtein Distance: 0
+
 Species: oha-let-7a-5p - dno-let-7a-3p | Levenshtein Distance: 15
+
 Species: oha-let-7a-5p - ocu-let-7a-5p | Levenshtein Distance: 0
+
 Species: oha-let-7a-5p - ocu-let-7a-3p | Levenshtein Distance: 15
+
 Species: oha-let-7a-5p - ocu-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: oha-let-7a-5p - ppa-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a-5p - mmr-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a-5p - dma-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a-5p - nle-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a-5p - sbo-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a-5p - pha-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a-5p - oga-let-7a | Levenshtein Distance: 0
+
 Species: oha-let-7a-2-3p - oha-let-7a-3-3p | Levenshtein Distance: 7
+
 Species: oha-let-7a-2-3p - cja-let-7a | Levenshtein Distance: 14
+
 Species: oha-let-7a-2-3p - pal-let-7a-5p | Levenshtein Distance: 14
+
 Species: oha-let-7a-2-3p - pal-let-7a-3p | Levenshtein Distance: 4
+
 Species: oha-let-7a-2-3p - pal-let-7a-2-3p | Levenshtein Distance: 10
+
 Species: oha-let-7a-2-3p - cgr-let-7a-2 | Levenshtein Distance: 10
+
 Species: oha-let-7a-2-3p - abu-let-7a | Levenshtein Distance: 14
+
 Species: oha-let-7a-2-3p - mze-let-7a | Levenshtein Distance: 14
+
 Species: oha-let-7a-2-3p - nbr-let-7a | Levenshtein Distance: 14
+
 Species: oha-let-7a-2-3p - oni-let-7a | Levenshtein Distance: 14
+
 Species: oha-let-7a-2-3p - pny-let-7a | Levenshtein Distance: 14
+
 Species: oha-let-7a-2-3p - gmo-let-7a-5p | Levenshtein Distance: 14
+
 Species: oha-let-7a-2-3p - gmo-let-7a-3-3p | Levenshtein Distance: 5
+
 Species: oha-let-7a-2-3p - gmo-let-7a-4-3p | Levenshtein Distance: 7
+
 Species: oha-let-7a-2-3p - gmo-let-7a-5-3p | Levenshtein Distance: 8
+
 Species: oha-let-7a-2-3p - gmo-let-7a-3p | Levenshtein Distance: 9
+
 Species: oha-let-7a-2-3p - xla-let-7a-5p | Levenshtein Distance: 14
+
 Species: oha-let-7a-2-3p - xla-let-7a-3p | Levenshtein Distance: 9
+
 Species: oha-let-7a-2-3p - cpo-let-7a-5p | Levenshtein Distance: 14
+
 Species: oha-let-7a-2-3p - cpo-let-7a-3p | Levenshtein Distance: 4
+
 Species: oha-let-7a-2-3p - cpo-let-7a-2-3p | Levenshtein Distance: 10
+
 Species: oha-let-7a-2-3p - dno-let-7a-5p | Levenshtein Distance: 14
+
 Species: oha-let-7a-2-3p - dno-let-7a-3p | Levenshtein Distance: 4
+
 Species: oha-let-7a-2-3p - ocu-let-7a-5p | Levenshtein Distance: 14
+
 Species: oha-let-7a-2-3p - ocu-let-7a-3p | Levenshtein Distance: 4
+
 Species: oha-let-7a-2-3p - ocu-let-7a-2-3p | Levenshtein Distance: 9
+
 Species: oha-let-7a-2-3p - ppa-let-7a | Levenshtein Distance: 14
+
 Species: oha-let-7a-2-3p - mmr-let-7a | Levenshtein Distance: 14
+
 Species: oha-let-7a-2-3p - dma-let-7a | Levenshtein Distance: 14
+
 Species: oha-let-7a-2-3p - nle-let-7a | Levenshtein Distance: 14
+
 Species: oha-let-7a-2-3p - sbo-let-7a | Levenshtein Distance: 14
+
 Species: oha-let-7a-2-3p - pha-let-7a | Levenshtein Distance: 14
+
 Species: oha-let-7a-2-3p - oga-let-7a | Levenshtein Distance: 14
+
 Species: oha-let-7a-3-3p - cja-let-7a | Levenshtein Distance: 12
+
+
 Species: oha-let-7a-3-3p - pal-let-7a-5p | Levenshtein Distance: 12
+
 Species: oha-let-7a-3-3p - pal-let-7a-3p | Levenshtein Distance: 9
 Species: oha-let-7a-3-3p - pal-let-7a-2-3p | Levenshtein Distance: 10
+
 Species: oha-let-7a-3-3p - cgr-let-7a-2 | Levenshtein Distance: 10
+
 Species: oha-let-7a-3-3p - abu-let-7a | Levenshtein Distance: 12
+
 Species: oha-let-7a-3-3p - mze-let-7a | Levenshtein Distance: 12
+
 Species: oha-let-7a-3-3p - nbr-let-7a | Levenshtein Distance: 12
+
 Species: oha-let-7a-3-3p - oni-let-7a | Levenshtein Distance: 12
+
 Species: oha-let-7a-3-3p - pny-let-7a | Levenshtein Distance: 12
+
 Species: oha-let-7a-3-3p - gmo-let-7a-5p | Levenshtein Distance: 12
+
 Species: oha-let-7a-3-3p - gmo-let-7a-3-3p | Levenshtein Distance: 10
+
 Species: oha-let-7a-3-3p - gmo-let-7a-4-3p | Levenshtein Distance: 7
+
 Species: oha-let-7a-3-3p - gmo-let-7a-5-3p | Levenshtein Distance: 6
+
 Species: oha-let-7a-3-3p - gmo-let-7a-3p | Levenshtein Distance: 10
+
 Species: oha-let-7a-3-3p - xla-let-7a-5p | Levenshtein Distance: 12
+
 Species: oha-let-7a-3-3p - xla-let-7a-3p | Levenshtein Distance: 10
+
 Species: oha-let-7a-3-3p - cpo-let-7a-5p | Levenshtein Distance: 12
+
 Species: oha-let-7a-3-3p - cpo-let-7a-3p | Levenshtein Distance: 9
+
 Species: oha-let-7a-3-3p - cpo-let-7a-2-3p | Levenshtein Distance: 10
+
 Species: oha-let-7a-3-3p - dno-let-7a-5p | Levenshtein Distance: 12
+
 Species: oha-let-7a-3-3p - dno-let-7a-3p | Levenshtein Distance: 9
+
 Species: oha-let-7a-3-3p - ocu-let-7a-5p | Levenshtein Distance: 12
+
 Species: oha-let-7a-3-3p - ocu-let-7a-3p | Levenshtein Distance: 9
+
 Species: oha-let-7a-3-3p - ocu-let-7a-2-3p | Levenshtein Distance: 11
+
 Species: oha-let-7a-3-3p - ppa-let-7a | Levenshtein Distance: 12
+
 Species: oha-let-7a-3-3p - mmr-let-7a | Levenshtein Distance: 12
+
 Species: oha-let-7a-3-3p - dma-let-7a | Levenshtein Distance: 12
+
 Species: oha-let-7a-3-3p - nle-let-7a | Levenshtein Distance: 12
+
 Species: oha-let-7a-3-3p - sbo-let-7a | Levenshtein Distance: 12
+
 Species: oha-let-7a-3-3p - pha-let-7a | Levenshtein Distance: 12
+
 Species: oha-let-7a-3-3p - oga-let-7a | Levenshtein Distance: 12
+
 Species: cja-let-7a - pal-let-7a-5p | Levenshtein Distance: 0
+
 Species: cja-let-7a - pal-let-7a-3p | Levenshtein Distance: 15
+
 Species: cja-let-7a - pal-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: cja-let-7a - cgr-let-7a-2 | Levenshtein Distance: 15
+
 Species: cja-let-7a - abu-let-7a | Levenshtein Distance: 0
+
 Species: cja-let-7a - mze-let-7a | Levenshtein Distance: 0
+
 Species: cja-let-7a - nbr-let-7a | Levenshtein Distance: 0
+
 Species: cja-let-7a - oni-let-7a | Levenshtein Distance: 0
+
 Species: cja-let-7a - pny-let-7a | Levenshtein Distance: 0
+
 Species: cja-let-7a - gmo-let-7a-5p | Levenshtein Distance: 0
+
 Species: cja-let-7a - gmo-let-7a-3-3p | Levenshtein Distance: 14
+
 Species: cja-let-7a - gmo-let-7a-4-3p | Levenshtein Distance: 14
+
 Species: cja-let-7a - gmo-let-7a-5-3p | Levenshtein Distance: 14
+
 Species: cja-let-7a - gmo-let-7a-3p | Levenshtein Distance: 14
+
 Species: cja-let-7a - xla-let-7a-5p | Levenshtein Distance: 0
+
 Species: cja-let-7a - xla-let-7a-3p | Levenshtein Distance: 14
+
 Species: cja-let-7a - cpo-let-7a-5p | Levenshtein Distance: 0
+
 Species: cja-let-7a - cpo-let-7a-3p | Levenshtein Distance: 15
+
 Species: cja-let-7a - cpo-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: cja-let-7a - dno-let-7a-5p | Levenshtein Distance: 0
+
 Species: cja-let-7a - dno-let-7a-3p | Levenshtein Distance: 15
+
 Species: cja-let-7a - ocu-let-7a-5p | Levenshtein Distance: 0
+
 Species: cja-let-7a - ocu-let-7a-3p | Levenshtein Distance: 15
+
 Species: cja-let-7a - ocu-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: cja-let-7a - ppa-let-7a | Levenshtein Distance: 0
+
 Species: cja-let-7a - mmr-let-7a | Levenshtein Distance: 0
+
 Species: cja-let-7a - dma-let-7a | Levenshtein Distance: 0
+
 Species: cja-let-7a - nle-let-7a | Levenshtein Distance: 0
+
 Species: cja-let-7a - sbo-let-7a | Levenshtein Distance: 0
+
 Species: cja-let-7a - pha-let-7a | Levenshtein Distance: 0
+
 Species: cja-let-7a - oga-let-7a | Levenshtein Distance: 0
+
 Species: pal-let-7a-5p - pal-let-7a-3p | Levenshtein Distance: 15
+
 Species: pal-let-7a-5p - pal-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: pal-let-7a-5p - cgr-let-7a-2 | Levenshtein Distance: 15
+
 Species: pal-let-7a-5p - abu-let-7a | Levenshtein Distance: 0
+
 Species: pal-let-7a-5p - mze-let-7a | Levenshtein Distance: 0
+
 Species: pal-let-7a-5p - nbr-let-7a | Levenshtein Distance: 0
+
 Species: pal-let-7a-5p - oni-let-7a | Levenshtein Distance: 0
+
 Species: pal-let-7a-5p - pny-let-7a | Levenshtein Distance: 0
+
 Species: pal-let-7a-5p - gmo-let-7a-5p | Levenshtein Distance: 0
+
 Species: pal-let-7a-5p - gmo-let-7a-3-3p | Levenshtein Distance: 14
+
 Species: pal-let-7a-5p - gmo-let-7a-4-3p | Levenshtein Distance: 14
+
 Species: pal-let-7a-5p - gmo-let-7a-5-3p | Levenshtein Distance: 14
+
 Species: pal-let-7a-5p - gmo-let-7a-3p | Levenshtein Distance: 14
+
 Species: pal-let-7a-5p - xla-let-7a-5p | Levenshtein Distance: 0
+
 Species: pal-let-7a-5p - xla-let-7a-3p | Levenshtein Distance: 14
+
 Species: pal-let-7a-5p - cpo-let-7a-5p | Levenshtein Distance: 0
+
 Species: pal-let-7a-5p - cpo-let-7a-3p | Levenshtein Distance: 15
+
 Species: pal-let-7a-5p - cpo-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: pal-let-7a-5p - dno-let-7a-5p | Levenshtein Distance: 0
+
 Species: pal-let-7a-5p - dno-let-7a-3p | Levenshtein Distance: 15
+
 Species: pal-let-7a-5p - ocu-let-7a-5p | Levenshtein Distance: 0
+
 Species: pal-let-7a-5p - ocu-let-7a-3p | Levenshtein Distance: 15
+
 Species: pal-let-7a-5p - ocu-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: pal-let-7a-5p - ppa-let-7a | Levenshtein Distance: 0
+
 Species: pal-let-7a-5p - mmr-let-7a | Levenshtein Distance: 0
+
 Species: pal-let-7a-5p - dma-let-7a | Levenshtein Distance: 0
+
 Species: pal-let-7a-5p - nle-let-7a | Levenshtein Distance: 0
+
 Species: pal-let-7a-5p - sbo-let-7a | Levenshtein Distance: 0
+
 Species: pal-let-7a-5p - pha-let-7a | Levenshtein Distance: 0
+
 Species: pal-let-7a-5p - oga-let-7a | Levenshtein Distance: 0
+
 Species: pal-let-7a-3p - pal-let-7a-2-3p | Levenshtein Distance: 6
+
 Species: pal-let-7a-3p - cgr-let-7a-2 | Levenshtein Distance: 6
+
 Species: pal-let-7a-3p - abu-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-3p - mze-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-3p - nbr-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-3p - oni-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-3p - pny-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-3p - gmo-let-7a-5p | Levenshtein Distance: 15
+
 Species: pal-let-7a-3p - gmo-let-7a-3-3p | Levenshtein Distance: 3
+
 Species: pal-let-7a-3p - gmo-let-7a-4-3p | Levenshtein Distance: 4
+
 Species: pal-let-7a-3p - gmo-let-7a-5-3p | Levenshtein Distance: 4
+
 Species: pal-let-7a-3p - gmo-let-7a-3p | Levenshtein Distance: 7
+
 Species: pal-let-7a-3p - xla-let-7a-5p | Levenshtein Distance: 15
+
 Species: pal-let-7a-3p - xla-let-7a-3p | Levenshtein Distance: 5
+
 Species: pal-let-7a-3p - cpo-let-7a-5p | Levenshtein Distance: 15
+
 Species: pal-let-7a-3p - cpo-let-7a-3p | Levenshtein Distance: 0
+
 Species: pal-let-7a-3p - cpo-let-7a-2-3p | Levenshtein Distance: 6
+
 Species: pal-let-7a-3p - dno-let-7a-5p | Levenshtein Distance: 15
+
 Species: pal-let-7a-3p - dno-let-7a-3p | Levenshtein Distance: 0
+
 Species: pal-let-7a-3p - ocu-let-7a-5p | Levenshtein Distance: 15
+
 Species: pal-let-7a-3p - ocu-let-7a-3p | Levenshtein Distance: 0
+
 Species: pal-let-7a-3p - ocu-let-7a-2-3p | Levenshtein Distance: 5
+
 Species: pal-let-7a-3p - ppa-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-3p - mmr-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-3p - dma-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-3p - nle-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-3p - sbo-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-3p - pha-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-3p - oga-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-2-3p - cgr-let-7a-2 | Levenshtein Distance: 0
+
 Species: pal-let-7a-2-3p - abu-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-2-3p - mze-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-2-3p - nbr-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-2-3p - oni-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-2-3p - pny-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-2-3p - gmo-let-7a-5p | Levenshtein Distance: 15
+
 Species: pal-let-7a-2-3p - gmo-let-7a-3-3p | Levenshtein Distance: 7
+
 Species: pal-let-7a-2-3p - gmo-let-7a-4-3p | Levenshtein Distance: 7
+
 Species: pal-let-7a-2-3p - gmo-let-7a-5-3p | Levenshtein Distance: 7
+
 Species: pal-let-7a-2-3p - gmo-let-7a-3p | Levenshtein Distance: 1
+
 Species: pal-let-7a-2-3p - xla-let-7a-5p | Levenshtein Distance: 15
+
 Species: pal-let-7a-2-3p - xla-let-7a-3p | Levenshtein Distance: 1
+
 Species: pal-let-7a-2-3p - cpo-let-7a-5p | Levenshtein Distance: 15
+
 Species: pal-let-7a-2-3p - cpo-let-7a-3p | Levenshtein Distance: 6
+
 Species: pal-let-7a-2-3p - cpo-let-7a-2-3p | Levenshtein Distance: 0
+
 Species: pal-let-7a-2-3p - dno-let-7a-5p | Levenshtein Distance: 15
+
 Species: pal-let-7a-2-3p - dno-let-7a-3p | Levenshtein Distance: 6
+
 Species: pal-let-7a-2-3p - ocu-let-7a-5p | Levenshtein Distance: 15
+
 Species: pal-let-7a-2-3p - ocu-let-7a-3p | Levenshtein Distance: 6
+
 Species: pal-let-7a-2-3p - ocu-let-7a-2-3p | Levenshtein Distance: 1
+
 Species: pal-let-7a-2-3p - ppa-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-2-3p - mmr-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-2-3p - dma-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-2-3p - nle-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-2-3p - sbo-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-2-3p - pha-let-7a | Levenshtein Distance: 15
+
 Species: pal-let-7a-2-3p - oga-let-7a | Levenshtein Distance: 15
+
 Species: cgr-let-7a-2 - abu-let-7a | Levenshtein Distance: 15
+
 Species: cgr-let-7a-2 - mze-let-7a | Levenshtein Distance: 15
+
 Species: cgr-let-7a-2 - nbr-let-7a | Levenshtein Distance: 15
+
 Species: cgr-let-7a-2 - oni-let-7a | Levenshtein Distance: 15
+
 Species: cgr-let-7a-2 - pny-let-7a | Levenshtein Distance: 15
+
 Species: cgr-let-7a-2 - gmo-let-7a-5p | Levenshtein Distance: 15
+
 Species: cgr-let-7a-2 - gmo-let-7a-3-3p | Levenshtein Distance: 7
+
 Species: cgr-let-7a-2 - gmo-let-7a-4-3p | Levenshtein Distance: 7
+
 Species: cgr-let-7a-2 - gmo-let-7a-5-3p | Levenshtein Distance: 7
+
 Species: cgr-let-7a-2 - gmo-let-7a-3p | Levenshtein Distance: 1
+
 Species: cgr-let-7a-2 - xla-let-7a-5p | Levenshtein Distance: 15
+
 Species: cgr-let-7a-2 - xla-let-7a-3p | Levenshtein Distance: 1
+
 Species: cgr-let-7a-2 - cpo-let-7a-5p | Levenshtein Distance: 15
+
 Species: cgr-let-7a-2 - cpo-let-7a-3p | Levenshtein Distance: 6
+
 Species: cgr-let-7a-2 - cpo-let-7a-2-3p | Levenshtein Distance: 0
+
 Species: cgr-let-7a-2 - dno-let-7a-5p | Levenshtein Distance: 15
+
 Species: cgr-let-7a-2 - dno-let-7a-3p | Levenshtein Distance: 6
+
 Species: cgr-let-7a-2 - ocu-let-7a-5p | Levenshtein Distance: 15
+
 Species: cgr-let-7a-2 - ocu-let-7a-3p | Levenshtein Distance: 6
+
 Species: cgr-let-7a-2 - ocu-let-7a-2-3p | Levenshtein Distance: 1
+
 Species: cgr-let-7a-2 - ppa-let-7a | Levenshtein Distance: 15
+
 Species: cgr-let-7a-2 - mmr-let-7a | Levenshtein Distance: 15
+
 Species: cgr-let-7a-2 - dma-let-7a | Levenshtein Distance: 15
+
 Species: cgr-let-7a-2 - nle-let-7a | Levenshtein Distance: 15
+
 Species: cgr-let-7a-2 - sbo-let-7a | Levenshtein Distance: 15
+
 Species: cgr-let-7a-2 - pha-let-7a | Levenshtein Distance: 15
+
 Species: cgr-let-7a-2 - oga-let-7a | Levenshtein Distance: 15
+
 Species: abu-let-7a - mze-let-7a | Levenshtein Distance: 0
+
 Species: abu-let-7a - nbr-let-7a | Levenshtein Distance: 0
+
 Species: abu-let-7a - oni-let-7a | Levenshtein Distance: 0
+
 Species: abu-let-7a - pny-let-7a | Levenshtein Distance: 0
+
 Species: abu-let-7a - gmo-let-7a-5p | Levenshtein Distance: 0
+
 Species: abu-let-7a - gmo-let-7a-3-3p | Levenshtein Distance: 14
+
 Species: abu-let-7a - gmo-let-7a-4-3p | Levenshtein Distance: 14
+
 Species: abu-let-7a - gmo-let-7a-5-3p | Levenshtein Distance: 14
+
 Species: abu-let-7a - gmo-let-7a-3p | Levenshtein Distance: 14
+
 Species: abu-let-7a - xla-let-7a-5p | Levenshtein Distance: 0
+
 Species: abu-let-7a - xla-let-7a-3p | Levenshtein Distance: 14
+
 Species: abu-let-7a - cpo-let-7a-5p | Levenshtein Distance: 0
+
 Species: abu-let-7a - cpo-let-7a-3p | Levenshtein Distance: 15
+
 Species: abu-let-7a - cpo-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: abu-let-7a - dno-let-7a-5p | Levenshtein Distance: 0
+
 Species: abu-let-7a - dno-let-7a-3p | Levenshtein Distance: 15
+
 Species: abu-let-7a - ocu-let-7a-5p | Levenshtein Distance: 0
+
 Species: abu-let-7a - ocu-let-7a-3p | Levenshtein Distance: 15
+
 Species: abu-let-7a - ocu-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: abu-let-7a - ppa-let-7a | Levenshtein Distance: 0
+
 Species: abu-let-7a - mmr-let-7a | Levenshtein Distance: 0
+
 Species: abu-let-7a - dma-let-7a | Levenshtein Distance: 0
+
 Species: abu-let-7a - nle-let-7a | Levenshtein Distance: 0
+
 Species: abu-let-7a - sbo-let-7a | Levenshtein Distance: 0
+
 Species: abu-let-7a - pha-let-7a | Levenshtein Distance: 0
+
 Species: abu-let-7a - oga-let-7a | Levenshtein Distance: 0
+
 Species: mze-let-7a - nbr-let-7a | Levenshtein Distance: 0
+
 Species: mze-let-7a - oni-let-7a | Levenshtein Distance: 0
+
 Species: mze-let-7a - pny-let-7a | Levenshtein Distance: 0
+
 Species: mze-let-7a - gmo-let-7a-5p | Levenshtein Distance: 0
+
 Species: mze-let-7a - gmo-let-7a-3-3p | Levenshtein Distance: 14
+
 Species: mze-let-7a - gmo-let-7a-4-3p | Levenshtein Distance: 14
+
 Species: mze-let-7a - gmo-let-7a-5-3p | Levenshtein Distance: 14
+
 Species: mze-let-7a - gmo-let-7a-3p | Levenshtein Distance: 14
+
 Species: mze-let-7a - xla-let-7a-5p | Levenshtein Distance: 0
+
 Species: mze-let-7a - xla-let-7a-3p | Levenshtein Distance: 14
+
 Species: mze-let-7a - cpo-let-7a-5p | Levenshtein Distance: 0
+
 Species: mze-let-7a - cpo-let-7a-3p | Levenshtein Distance: 15
+
 Species: mze-let-7a - cpo-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: mze-let-7a - dno-let-7a-5p | Levenshtein Distance: 0
+
 Species: mze-let-7a - dno-let-7a-3p | Levenshtein Distance: 15
+
 Species: mze-let-7a - ocu-let-7a-5p | Levenshtein Distance: 0
+
 Species: mze-let-7a - ocu-let-7a-3p | Levenshtein Distance: 15
+
 Species: mze-let-7a - ocu-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: mze-let-7a - ppa-let-7a | Levenshtein Distance: 0
+
 Species: mze-let-7a - mmr-let-7a | Levenshtein Distance: 0
+
 Species: mze-let-7a - dma-let-7a | Levenshtein Distance: 0
+
 Species: mze-let-7a - nle-let-7a | Levenshtein Distance: 0
+
 Species: mze-let-7a - sbo-let-7a | Levenshtein Distance: 0
+
 Species: mze-let-7a - pha-let-7a | Levenshtein Distance: 0
+
 Species: mze-let-7a - oga-let-7a | Levenshtein Distance: 0
+
 Species: nbr-let-7a - oni-let-7a | Levenshtein Distance: 0
+
 Species: nbr-let-7a - pny-let-7a | Levenshtein Distance: 0
+
 Species: nbr-let-7a - gmo-let-7a-5p | Levenshtein Distance: 0
+
 Species: nbr-let-7a - gmo-let-7a-3-3p | Levenshtein Distance: 14
+
 Species: nbr-let-7a - gmo-let-7a-4-3p | Levenshtein Distance: 14
+
 Species: nbr-let-7a - gmo-let-7a-5-3p | Levenshtein Distance: 14
+
 Species: nbr-let-7a - gmo-let-7a-3p | Levenshtein Distance: 14
+
 Species: nbr-let-7a - xla-let-7a-5p | Levenshtein Distance: 0
+
 Species: nbr-let-7a - xla-let-7a-3p | Levenshtein Distance: 14
+
 Species: nbr-let-7a - cpo-let-7a-5p | Levenshtein Distance: 0
+
 Species: nbr-let-7a - cpo-let-7a-3p | Levenshtein Distance: 15
+
 Species: nbr-let-7a - cpo-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: nbr-let-7a - dno-let-7a-5p | Levenshtein Distance: 0
+
 Species: nbr-let-7a - dno-let-7a-3p | Levenshtein Distance: 15
+
 Species: nbr-let-7a - ocu-let-7a-5p | Levenshtein Distance: 0
+
 Species: nbr-let-7a - ocu-let-7a-3p | Levenshtein Distance: 15
+
 Species: nbr-let-7a - ocu-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: nbr-let-7a - ppa-let-7a | Levenshtein Distance: 0
+
 Species: nbr-let-7a - mmr-let-7a | Levenshtein Distance: 0
+
 Species: nbr-let-7a - dma-let-7a | Levenshtein Distance: 0
+
 Species: nbr-let-7a - nle-let-7a | Levenshtein Distance: 0
+
 Species: nbr-let-7a - sbo-let-7a | Levenshtein Distance: 0
+
 Species: nbr-let-7a - pha-let-7a | Levenshtein Distance: 0
+
 Species: nbr-let-7a - oga-let-7a | Levenshtein Distance: 0
+
 Species: oni-let-7a - pny-let-7a | Levenshtein Distance: 0
+
 Species: oni-let-7a - gmo-let-7a-5p | Levenshtein Distance: 0
+
 Species: oni-let-7a - gmo-let-7a-3-3p | Levenshtein Distance: 14
+
 Species: oni-let-7a - gmo-let-7a-4-3p | Levenshtein Distance: 14
+
 Species: oni-let-7a - gmo-let-7a-5-3p | Levenshtein Distance: 14
+
 Species: oni-let-7a - gmo-let-7a-3p | Levenshtein Distance: 14
+
 Species: oni-let-7a - xla-let-7a-5p | Levenshtein Distance: 0
+
 Species: oni-let-7a - xla-let-7a-3p | Levenshtein Distance: 14
+
 Species: oni-let-7a - cpo-let-7a-5p | Levenshtein Distance: 0
+
 Species: oni-let-7a - cpo-let-7a-3p | Levenshtein Distance: 15
+
 Species: oni-let-7a - cpo-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: oni-let-7a - dno-let-7a-5p | Levenshtein Distance: 0
+
 Species: oni-let-7a - dno-let-7a-3p | Levenshtein Distance: 15
+
 Species: oni-let-7a - ocu-let-7a-5p | Levenshtein Distance: 0
+
 Species: oni-let-7a - ocu-let-7a-3p | Levenshtein Distance: 15
+
 Species: oni-let-7a - ocu-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: oni-let-7a - ppa-let-7a | Levenshtein Distance: 0
+
 Species: oni-let-7a - mmr-let-7a | Levenshtein Distance: 0
+
 Species: oni-let-7a - dma-let-7a | Levenshtein Distance: 0
+
 Species: oni-let-7a - nle-let-7a | Levenshtein Distance: 0
+
 Species: oni-let-7a - sbo-let-7a | Levenshtein Distance: 0
+
 Species: oni-let-7a - pha-let-7a | Levenshtein Distance: 0
+
 Species: oni-let-7a - oga-let-7a | Levenshtein Distance: 0
+
 Species: pny-let-7a - gmo-let-7a-5p | Levenshtein Distance: 0
+
 Species: pny-let-7a - gmo-let-7a-3-3p | Levenshtein Distance: 14
+
 Species: pny-let-7a - gmo-let-7a-4-3p | Levenshtein Distance: 14
+
 Species: pny-let-7a - gmo-let-7a-5-3p | Levenshtein Distance: 14
+
 Species: pny-let-7a - gmo-let-7a-3p | Levenshtein Distance: 14
+
 Species: pny-let-7a - xla-let-7a-5p | Levenshtein Distance: 0
+
 Species: pny-let-7a - xla-let-7a-3p | Levenshtein Distance: 14
+
 Species: pny-let-7a - cpo-let-7a-5p | Levenshtein Distance: 0
+
 Species: pny-let-7a - cpo-let-7a-3p | Levenshtein Distance: 15
+
 Species: pny-let-7a - cpo-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: pny-let-7a - dno-let-7a-5p | Levenshtein Distance: 0
+
 Species: pny-let-7a - dno-let-7a-3p | Levenshtein Distance: 15
+
 Species: pny-let-7a - ocu-let-7a-5p | Levenshtein Distance: 0
+
 Species: pny-let-7a - ocu-let-7a-3p | Levenshtein Distance: 15
+
 Species: pny-let-7a - ocu-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: pny-let-7a - ppa-let-7a | Levenshtein Distance: 0
+
 Species: pny-let-7a - mmr-let-7a | Levenshtein Distance: 0
+
 Species: pny-let-7a - dma-let-7a | Levenshtein Distance: 0
+
 Species: pny-let-7a - nle-let-7a | Levenshtein Distance: 0
+
 Species: pny-let-7a - sbo-let-7a | Levenshtein Distance: 0
+
 Species: pny-let-7a - pha-let-7a | Levenshtein Distance: 0
+
 Species: pny-let-7a - oga-let-7a | Levenshtein Distance: 0
+
 Species: gmo-let-7a-5p - gmo-let-7a-3-3p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-5p - gmo-let-7a-4-3p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-5p - gmo-let-7a-5-3p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-5p - gmo-let-7a-3p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-5p - xla-let-7a-5p | Levenshtein Distance: 0
+
 Species: gmo-let-7a-5p - xla-let-7a-3p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-5p - cpo-let-7a-5p | Levenshtein Distance: 0
+
 Species: gmo-let-7a-5p - cpo-let-7a-3p | Levenshtein Distance: 15
+
 Species: gmo-let-7a-5p - cpo-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: gmo-let-7a-5p - dno-let-7a-5p | Levenshtein Distance: 0
+
 Species: gmo-let-7a-5p - dno-let-7a-3p | Levenshtein Distance: 15
+
 Species: gmo-let-7a-5p - ocu-let-7a-5p | Levenshtein Distance: 0
+
 Species: gmo-let-7a-5p - ocu-let-7a-3p | Levenshtein Distance: 15
+
 Species: gmo-let-7a-5p - ocu-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: gmo-let-7a-5p - ppa-let-7a | Levenshtein Distance: 0
+
 Species: gmo-let-7a-5p - mmr-let-7a | Levenshtein Distance: 0
+
 Species: gmo-let-7a-5p - dma-let-7a | Levenshtein Distance: 0
+
 Species: gmo-let-7a-5p - nle-let-7a | Levenshtein Distance: 0
+
 Species: gmo-let-7a-5p - sbo-let-7a | Levenshtein Distance: 0
+
 Species: gmo-let-7a-5p - pha-let-7a | Levenshtein Distance: 0
+
 Species: gmo-let-7a-5p - oga-let-7a | Levenshtein Distance: 0
+
 Species: gmo-let-7a-3-3p - gmo-let-7a-4-3p | Levenshtein Distance: 6
+
 Species: gmo-let-7a-3-3p - gmo-let-7a-5-3p | Levenshtein Distance: 7
+
 Species: gmo-let-7a-3-3p - gmo-let-7a-3p | Levenshtein Distance: 6
+
 Species: gmo-let-7a-3-3p - xla-let-7a-5p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3-3p - xla-let-7a-3p | Levenshtein Distance: 6
+
 Species: gmo-let-7a-3-3p - cpo-let-7a-5p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3-3p - cpo-let-7a-3p | Levenshtein Distance: 3
+
 Species: gmo-let-7a-3-3p - cpo-let-7a-2-3p | Levenshtein Distance: 7
+
 Species: gmo-let-7a-3-3p - dno-let-7a-5p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3-3p - dno-let-7a-3p | Levenshtein Distance: 3
+
 Species: gmo-let-7a-3-3p - ocu-let-7a-5p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3-3p - ocu-let-7a-3p | Levenshtein Distance: 3
+
 Species: gmo-let-7a-3-3p - ocu-let-7a-2-3p | Levenshtein Distance: 6
+
 Species: gmo-let-7a-3-3p - ppa-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3-3p - mmr-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3-3p - dma-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3-3p - nle-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3-3p - sbo-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3-3p - pha-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3-3p - oga-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-4-3p - gmo-let-7a-5-3p | Levenshtein Distance: 3
+
 Species: gmo-let-7a-4-3p - gmo-let-7a-3p | Levenshtein Distance: 7
+
 Species: gmo-let-7a-4-3p - xla-let-7a-5p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-4-3p - xla-let-7a-3p | Levenshtein Distance: 7
+
 Species: gmo-let-7a-4-3p - cpo-let-7a-5p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-4-3p - cpo-let-7a-3p | Levenshtein Distance: 4
+
 Species: gmo-let-7a-4-3p - cpo-let-7a-2-3p | Levenshtein Distance: 7
+
 Species: gmo-let-7a-4-3p - dno-let-7a-5p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-4-3p - dno-let-7a-3p | Levenshtein Distance: 4
+
 Species: gmo-let-7a-4-3p - ocu-let-7a-5p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-4-3p - ocu-let-7a-3p | Levenshtein Distance: 4
+
 Species: gmo-let-7a-4-3p - ocu-let-7a-2-3p | Levenshtein Distance: 8
+
 Species: gmo-let-7a-4-3p - ppa-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-4-3p - mmr-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-4-3p - dma-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-4-3p - nle-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-4-3p - sbo-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-4-3p - pha-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-4-3p - oga-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-5-3p - gmo-let-7a-3p | Levenshtein Distance: 8
+
 Species: gmo-let-7a-5-3p - xla-let-7a-5p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-5-3p - xla-let-7a-3p | Levenshtein Distance: 7
+
 Species: gmo-let-7a-5-3p - cpo-let-7a-5p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-5-3p - cpo-let-7a-3p | Levenshtein Distance: 4
+
 Species: gmo-let-7a-5-3p - cpo-let-7a-2-3p | Levenshtein Distance: 7
+
 Species: gmo-let-7a-5-3p - dno-let-7a-5p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-5-3p - dno-let-7a-3p | Levenshtein Distance: 4
+
 Species: gmo-let-7a-5-3p - ocu-let-7a-5p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-5-3p - ocu-let-7a-3p | Levenshtein Distance: 4
+
 Species: gmo-let-7a-5-3p - ocu-let-7a-2-3p | Levenshtein Distance: 8
+
 Species: gmo-let-7a-5-3p - ppa-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-5-3p - mmr-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-5-3p - dma-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-5-3p - nle-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-5-3p - sbo-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-5-3p - pha-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-5-3p - oga-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3p - xla-let-7a-5p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3p - xla-let-7a-3p | Levenshtein Distance: 2
+
 Species: gmo-let-7a-3p - cpo-let-7a-5p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3p - cpo-let-7a-3p | Levenshtein Distance: 7
+
 Species: gmo-let-7a-3p - cpo-let-7a-2-3p | Levenshtein Distance: 1
+
 Species: gmo-let-7a-3p - dno-let-7a-5p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3p - dno-let-7a-3p | Levenshtein Distance: 7
+
 Species: gmo-let-7a-3p - ocu-let-7a-5p | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3p - ocu-let-7a-3p | Levenshtein Distance: 7
+
 Species: gmo-let-7a-3p - ocu-let-7a-2-3p | Levenshtein Distance: 2
+
 Species: gmo-let-7a-3p - ppa-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3p - mmr-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3p - dma-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3p - nle-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3p - sbo-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3p - pha-let-7a | Levenshtein Distance: 14
+
 Species: gmo-let-7a-3p - oga-let-7a | Levenshtein Distance: 14
+
 Species: xla-let-7a-5p - xla-let-7a-3p | Levenshtein Distance: 14
+
 Species: xla-let-7a-5p - cpo-let-7a-5p | Levenshtein Distance: 0
+
 Species: xla-let-7a-5p - cpo-let-7a-3p | Levenshtein Distance: 15
+
 Species: xla-let-7a-5p - cpo-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: xla-let-7a-5p - dno-let-7a-5p | Levenshtein Distance: 0
+
 Species: xla-let-7a-5p - dno-let-7a-3p | Levenshtein Distance: 15
+
 Species: xla-let-7a-5p - ocu-let-7a-5p | Levenshtein Distance: 0
+
 Species: xla-let-7a-5p - ocu-let-7a-3p | Levenshtein Distance: 15
+
 Species: xla-let-7a-5p - ocu-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: xla-let-7a-5p - ppa-let-7a | Levenshtein Distance: 0
+
 Species: xla-let-7a-5p - mmr-let-7a | Levenshtein Distance: 0
+
 Species: xla-let-7a-5p - dma-let-7a | Levenshtein Distance: 0
+
 Species: xla-let-7a-5p - nle-let-7a | Levenshtein Distance: 0
+
 Species: xla-let-7a-5p - sbo-let-7a | Levenshtein Distance: 0
+
 Species: xla-let-7a-5p - pha-let-7a | Levenshtein Distance: 0
+
 Species: xla-let-7a-5p - oga-let-7a | Levenshtein Distance: 0
+
 Species: xla-let-7a-3p - cpo-let-7a-5p | Levenshtein Distance: 14
+
 Species: xla-let-7a-3p - cpo-let-7a-3p | Levenshtein Distance: 5
+
 Species: xla-let-7a-3p - cpo-let-7a-2-3p | Levenshtein Distance: 1
+
 Species: xla-let-7a-3p - dno-let-7a-5p | Levenshtein Distance: 14
+
 Species: xla-let-7a-3p - dno-let-7a-3p | Levenshtein Distance: 5
+
 Species: xla-let-7a-3p - ocu-let-7a-5p | Levenshtein Distance: 14
+
 Species: xla-let-7a-3p - ocu-let-7a-3p | Levenshtein Distance: 5
+
 Species: xla-let-7a-3p - ocu-let-7a-2-3p | Levenshtein Distance: 2
+
 Species: xla-let-7a-3p - ppa-let-7a | Levenshtein Distance: 14
+
 Species: xla-let-7a-3p - mmr-let-7a | Levenshtein Distance: 14
+
 Species: xla-let-7a-3p - dma-let-7a | Levenshtein Distance: 14
+
 Species: xla-let-7a-3p - nle-let-7a | Levenshtein Distance: 14
+
 Species: xla-let-7a-3p - sbo-let-7a | Levenshtein Distance: 14
+
 Species: xla-let-7a-3p - pha-let-7a | Levenshtein Distance: 14
+
 Species: xla-let-7a-3p - oga-let-7a | Levenshtein Distance: 14
+
 Species: cpo-let-7a-5p - cpo-let-7a-3p | Levenshtein Distance: 15
+
 Species: cpo-let-7a-5p - cpo-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: cpo-let-7a-5p - dno-let-7a-5p | Levenshtein Distance: 0
+
 Species: cpo-let-7a-5p - dno-let-7a-3p | Levenshtein Distance: 15
+
 Species: cpo-let-7a-5p - ocu-let-7a-5p | Levenshtein Distance: 0
+
 Species: cpo-let-7a-5p - ocu-let-7a-3p | Levenshtein Distance: 15
+
 Species: cpo-let-7a-5p - ocu-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: cpo-let-7a-5p - ppa-let-7a | Levenshtein Distance: 0
+
 Species: cpo-let-7a-5p - mmr-let-7a | Levenshtein Distance: 0
+
 Species: cpo-let-7a-5p - dma-let-7a | Levenshtein Distance: 0
+
 Species: cpo-let-7a-5p - nle-let-7a | Levenshtein Distance: 0
+
 Species: cpo-let-7a-5p - sbo-let-7a | Levenshtein Distance: 0
+
 Species: cpo-let-7a-5p - pha-let-7a | Levenshtein Distance: 0
+
 Species: cpo-let-7a-5p - oga-let-7a | Levenshtein Distance: 0
+
 Species: cpo-let-7a-3p - cpo-let-7a-2-3p | Levenshtein Distance: 6
+
 Species: cpo-let-7a-3p - dno-let-7a-5p | Levenshtein Distance: 15
+
 Species: cpo-let-7a-3p - dno-let-7a-3p | Levenshtein Distance: 0
+
 Species: cpo-let-7a-3p - ocu-let-7a-5p | Levenshtein Distance: 15
+
 Species: cpo-let-7a-3p - ocu-let-7a-3p | Levenshtein Distance: 0
+
 Species: cpo-let-7a-3p - ocu-let-7a-2-3p | Levenshtein Distance: 5
+
 Species: cpo-let-7a-3p - ppa-let-7a | Levenshtein Distance: 15
+
 Species: cpo-let-7a-3p - mmr-let-7a | Levenshtein Distance: 15
+
 Species: cpo-let-7a-3p - dma-let-7a | Levenshtein Distance: 15
+
 Species: cpo-let-7a-3p - nle-let-7a | Levenshtein Distance: 15
+
 Species: cpo-let-7a-3p - sbo-let-7a | Levenshtein Distance: 15
+
 Species: cpo-let-7a-3p - pha-let-7a | Levenshtein Distance: 15
+
 Species: cpo-let-7a-3p - oga-let-7a | Levenshtein Distance: 15
+
 Species: cpo-let-7a-2-3p - dno-let-7a-5p | Levenshtein Distance: 15
+
 Species: cpo-let-7a-2-3p - dno-let-7a-3p | Levenshtein Distance: 6
+
 Species: cpo-let-7a-2-3p - ocu-let-7a-5p | Levenshtein Distance: 15
+
 Species: cpo-let-7a-2-3p - ocu-let-7a-3p | Levenshtein Distance: 6
+
 Species: cpo-let-7a-2-3p - ocu-let-7a-2-3p | Levenshtein Distance: 1
+
 Species: cpo-let-7a-2-3p - ppa-let-7a | Levenshtein Distance: 15
+
 Species: cpo-let-7a-2-3p - mmr-let-7a | Levenshtein Distance: 15
+
 Species: cpo-let-7a-2-3p - dma-let-7a | Levenshtein Distance: 15
+
 Species: cpo-let-7a-2-3p - nle-let-7a | Levenshtein Distance: 15
+
 Species: cpo-let-7a-2-3p - sbo-let-7a | Levenshtein Distance: 15
+
 Species: cpo-let-7a-2-3p - pha-let-7a | Levenshtein Distance: 15
+
 Species: cpo-let-7a-2-3p - oga-let-7a | Levenshtein Distance: 15
+
 Species: dno-let-7a-5p - dno-let-7a-3p | Levenshtein Distance: 15
+
 Species: dno-let-7a-5p - ocu-let-7a-5p | Levenshtein Distance: 0
+
 Species: dno-let-7a-5p - ocu-let-7a-3p | Levenshtein Distance: 15
+
 Species: dno-let-7a-5p - ocu-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: dno-let-7a-5p - ppa-let-7a | Levenshtein Distance: 0
+
 Species: dno-let-7a-5p - mmr-let-7a | Levenshtein Distance: 0
+
 Species: dno-let-7a-5p - dma-let-7a | Levenshtein Distance: 0
+
 Species: dno-let-7a-5p - nle-let-7a | Levenshtein Distance: 0
+
 Species: dno-let-7a-5p - sbo-let-7a | Levenshtein Distance: 0
+
 Species: dno-let-7a-5p - pha-let-7a | Levenshtein Distance: 0
+
 Species: dno-let-7a-5p - oga-let-7a | Levenshtein Distance: 0
+
 Species: dno-let-7a-3p - ocu-let-7a-5p | Levenshtein Distance: 15
+
 Species: dno-let-7a-3p - ocu-let-7a-3p | Levenshtein Distance: 0
+
 Species: dno-let-7a-3p - ocu-let-7a-2-3p | Levenshtein Distance: 5
+
 Species: dno-let-7a-3p - ppa-let-7a | Levenshtein Distance: 15
+
 Species: dno-let-7a-3p - mmr-let-7a | Levenshtein Distance: 15
+
 Species: dno-let-7a-3p - dma-let-7a | Levenshtein Distance: 15
+
 Species: dno-let-7a-3p - nle-let-7a | Levenshtein Distance: 15
+
 Species: dno-let-7a-3p - sbo-let-7a | Levenshtein Distance: 15
+
 Species: dno-let-7a-3p - pha-let-7a | Levenshtein Distance: 15
+
 Species: dno-let-7a-3p - oga-let-7a | Levenshtein Distance: 15
+
 Species: ocu-let-7a-5p - ocu-let-7a-3p | Levenshtein Distance: 15
+
 Species: ocu-let-7a-5p - ocu-let-7a-2-3p | Levenshtein Distance: 15
+
 Species: ocu-let-7a-5p - ppa-let-7a | Levenshtein Distance: 0
+
 Species: ocu-let-7a-5p - mmr-let-7a | Levenshtein Distance: 0
+
 Species: ocu-let-7a-5p - dma-let-7a | Levenshtein Distance: 0
+
 Species: ocu-let-7a-5p - nle-let-7a | Levenshtein Distance: 0
+
 Species: ocu-let-7a-5p - sbo-let-7a | Levenshtein Distance: 0
+
 Species: ocu-let-7a-5p - pha-let-7a | Levenshtein Distance: 0
+
 Species: ocu-let-7a-5p - oga-let-7a | Levenshtein Distance: 0
+
 Species: ocu-let-7a-3p - ocu-let-7a-2-3p | Levenshtein Distance: 5
+
 Species: ocu-let-7a-3p - ppa-let-7a | Levenshtein Distance: 15
+
 Species: ocu-let-7a-3p - mmr-let-7a | Levenshtein Distance: 15
+
 Species: ocu-let-7a-3p - dma-let-7a | Levenshtein Distance: 15
+
 Species: ocu-let-7a-3p - nle-let-7a | Levenshtein Distance: 15
+
 Species: ocu-let-7a-3p - sbo-let-7a | Levenshtein Distance: 15
+
 Species: ocu-let-7a-3p - pha-let-7a | Levenshtein Distance: 15
+
 Species: ocu-let-7a-3p - oga-let-7a | Levenshtein Distance: 15
+
 Species: ocu-let-7a-2-3p - ppa-let-7a | Levenshtein Distance: 15
+
 Species: ocu-let-7a-2-3p - mmr-let-7a | Levenshtein Distance: 15
+
 Species: ocu-let-7a-2-3p - dma-let-7a | Levenshtein Distance: 15
+
 Species: ocu-let-7a-2-3p - nle-let-7a | Levenshtein Distance: 15
+
 Species: ocu-let-7a-2-3p - sbo-let-7a | Levenshtein Distance: 15
+
 Species: ocu-let-7a-2-3p - pha-let-7a | Levenshtein Distance: 15
+
 Species: ocu-let-7a-2-3p - oga-let-7a | Levenshtein Distance: 15
+
 Species: ppa-let-7a - mmr-let-7a | Levenshtein Distance: 0
+
 Species: ppa-let-7a - dma-let-7a | Levenshtein Distance: 0
+
 Species: ppa-let-7a - nle-let-7a | Levenshtein Distance: 0
+
 Species: ppa-let-7a - sbo-let-7a | Levenshtein Distance: 0
+
 Species: ppa-let-7a - pha-let-7a | Levenshtein Distance: 0
+
 Species: ppa-let-7a - oga-let-7a | Levenshtein Distance: 0
+
 Species: mmr-let-7a - dma-let-7a | Levenshtein Distance: 0
+
 Species: mmr-let-7a - nle-let-7a | Levenshtein Distance: 0
+
 Species: mmr-let-7a - sbo-let-7a | Levenshtein Distance: 0
+
 Species: mmr-let-7a - pha-let-7a | Levenshtein Distance: 0
+
 Species: mmr-let-7a - oga-let-7a | Levenshtein Distance: 0
+
 Species: dma-let-7a - nle-let-7a | Levenshtein Distance: 0
+
 Species: dma-let-7a - sbo-let-7a | Levenshtein Distance: 0
+
 Species: dma-let-7a - pha-let-7a | Levenshtein Distance: 0
+
 Species: dma-let-7a - oga-let-7a | Levenshtein Distance: 0
+
 Species: nle-let-7a - sbo-let-7a | Levenshtein Distance: 0
+
 Species: nle-let-7a - pha-let-7a | Levenshtein Distance: 0
+
 Species: nle-let-7a - oga-let-7a | Levenshtein Distance: 0
+
 Species: sbo-let-7a - pha-let-7a | Levenshtein Distance: 0
+
 Species: sbo-let-7a - oga-let-7a | Levenshtein Distance: 0
+
 Species: pha-let-7a - oga-let-7a | Levenshtein Distance: 0
+
 Total 'let-7a' miRNAs: 121
+
 Average Levenshtein Distance of 'let-7a' miRNAs: 8.60
 
 ## task 5B: repeat for all let-7 miRNAs and plot
