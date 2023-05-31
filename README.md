@@ -184,7 +184,6 @@ Average Levenshtein distance for let-7 miRNA in species 'oga-': 2.57
 
 let-7a miRNA codes:
 
-
 hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p
 
 hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p
@@ -873,6 +872,7 @@ Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p a
 
 ![Figure_3](https://github.com/Tigistshewafera/AP_Home_Take_Exam/assets/130226521/71b36062-553b-4c35-8edb-f458ee608648)
 
+## NB: To calculate the average Levenshtein distance and plot it for let-7 miRNAs of different species, we can use the same code structure that we used for the human species. By simply changing the species code, we can process the data for other species as well.
 
  ## Question 5A: What is the levenshtein distance for each let-7 miRNA across all species?
  
@@ -3375,4 +3375,4 @@ Total sequences count: 740
 ![Figure_4](https://github.com/Tigistshewafera/AP_Home_Take_Exam/assets/130226521/4180ef23-7948-4e47-860f-967621c31328)
 
 
-
+## NB: To calculate the average Levenshtein distance and plot it for let-7 miRNAs of different species, we can use the same code structure that we used for the human species. By simply changing the species code, we can process the data for other species as well.
