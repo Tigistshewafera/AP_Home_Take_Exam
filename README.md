@@ -1997,33 +1997,61 @@ Average Levenshtein Distance of 'let-7a' miRNAs: 8.60
 
 pydev debugger: starting (pid: 240)
 The Average Levenshtein distance among all pairs for miRNA family let-7-: 10.20
+
 The frequency of miRNA family let-7-: 38
+
 The Average Levenshtein distance among all pairs for miRNA family let-7a: 8.60
+
 The frequency of miRNA family let-7a: 121
+
 The Average Levenshtein distance among all pairs for miRNA family let-7b: 7.35
+
 The frequency of miRNA family let-7b: 73
+
 The Average Levenshtein distance among all pairs for miRNA family let-7c: 7.71
+
 The frequency of miRNA family let-7c: 88
+
 The Average Levenshtein distance among all pairs for miRNA family let-7d: 7.98
+
 The frequency of miRNA family let-7d: 67
+
 The Average Levenshtein distance among all pairs for miRNA family let-7e: 7.68
+
 The frequency of miRNA family let-7e: 64
+
 The Average Levenshtein distance among all pairs for miRNA family let-7f: 7.41
+
 The frequency of miRNA family let-7f: 83
+
 The Average Levenshtein distance among all pairs for miRNA family let-7g: 6.83
+
 The frequency of miRNA family let-7g: 71
+
 The Average Levenshtein distance among all pairs for miRNA family let-7i: 6.04
+
 The frequency of miRNA family let-7i: 70
+
 The Average Levenshtein distance among all pairs for miRNA family let-7M: 1.60
+
 The frequency of miRNA family let-7M: 30
+
 The Average Levenshtein distance among all pairs for miRNA family let-7j: 7.62
+
 The frequency of miRNA family let-7j: 16
+
 The Average Levenshtein distance among all pairs for miRNA family let-7k: 12.00
+
 The frequency of miRNA family let-7k: 3
+
 The Average Levenshtein distance among all pairs for miRNA family let-7h: 4.76
+
 The frequency of miRNA family let-7h: 14
+
 The Average Levenshtein distance among all pairs for miRNA family let-7l: 12.00
+
 The frequency of miRNA family let-7l: 2
+
 Total sequences count: 740
 
 
