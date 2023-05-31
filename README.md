@@ -15,6 +15,7 @@
 ## Task 3B: generate a plot to show which let miRNAs are present in each species.
 
 ![Figure_2](https://github.com/Tigistshewafera/AP_Home_Take_Exam/assets/130226521/f4f9b441-9534-4dfd-9965-3f9ae95865d4)
+# Levenshtein Distance
 
 ## 3C: What is the average levenshtein distance for the let-7 miRNAs for each species?
 
@@ -445,7 +446,7 @@ Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p a
 Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 5
 Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 12
 
-##Task: repeat this for all species and plot
+## Task: repeat this for all species and plot
 
 ![Figure_3](https://github.com/Tigistshewafera/AP_Home_Take_Exam/assets/130226521/d5c8b45a-45ec-47dd-897b-5a433c07b0e9)
 
@@ -605,6 +606,8 @@ The frequency of miRNA family let-7l: 2
 Total sequences count: 740
 
 ## task: repeat for all let-7 miRNAs and plot
+
+![Figure_4](https://github.com/Tigistshewafera/AP_Home_Take_Exam/assets/130226521/4180ef23-7948-4e47-860f-967621c31328)
 
 
 
