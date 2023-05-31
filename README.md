@@ -183,23 +183,42 @@ Average Levenshtein distance for let-7 miRNA in species 'oga-': 2.57
 ## Question 4: what is the average Levenshtein distance among all pairs for human?
 
 let-7a miRNA codes:
+
+
 hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p
+
 hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p
+
 hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p
+
 hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p
+
 hsa-let-7b-3p MIMAT0004482 Homo sapiens let-7b-3p
+
 hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p
+
 hsa-let-7c-3p MIMAT0026472 Homo sapiens let-7c-3p
+
 hsa-let-7d-5p MIMAT0000065 Homo sapiens let-7d-5p
+
 hsa-let-7d-3p MIMAT0004484 Homo sapiens let-7d-3p
+
 hsa-let-7e-5p MIMAT0000066 Homo sapiens let-7e-5p
+
 hsa-let-7e-3p MIMAT0004485 Homo sapiens let-7e-3p
+
 hsa-let-7f-5p MIMAT0000067 Homo sapiens let-7f-5p
+
 hsa-let-7f-1-3p MIMAT0004486 Homo sapiens let-7f-1-3p
+
 hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p
+
 hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p
+
 hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p
+
 hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p
+
 hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p
 
 Pairwise Levenshtein distances for hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p
@@ -853,6 +872,7 @@ Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p a
 ## Task 4: repeat this for all species and plot
 
 ![Figure_3](https://github.com/Tigistshewafera/AP_Home_Take_Exam/assets/130226521/71b36062-553b-4c35-8edb-f458ee608648)
+
 
  ## Question 5A: What is the levenshtein distance for each let-7 miRNA across all species?
  
@@ -2130,6 +2150,7 @@ Species: oha-let-7a-5p - gmo-let-7a-4-3p | Levenshtein Distance: 14
 Species: oha-let-7a-5p - gmo-let-7a-5-3p | Levenshtein Distance: 14
 
 Species: oha-let-7a-5p - gmo-let-7a-3p | Levenshtein Distance: 14
+
 Species: oha-let-7a-5p - xla-let-7a-5p | Levenshtein Distance: 0
 
 Species: oha-let-7a-5p - xla-let-7a-3p | Levenshtein Distance: 14
@@ -2231,7 +2252,6 @@ Species: oha-let-7a-2-3p - pha-let-7a | Levenshtein Distance: 14
 Species: oha-let-7a-2-3p - oga-let-7a | Levenshtein Distance: 14
 
 Species: oha-let-7a-3-3p - cja-let-7a | Levenshtein Distance: 12
-
 
 Species: oha-let-7a-3-3p - pal-let-7a-5p | Levenshtein Distance: 12
 
@@ -3293,7 +3313,6 @@ Average Levenshtein Distance of 'let-7a' miRNAs: 8.60
 
 ## task 5B: repeat for all let-7 miRNAs and plot
 
-pydev debugger: starting (pid: 240)
 The Average Levenshtein distance among all pairs for miRNA family let-7-: 10.20
 
 The frequency of miRNA family let-7-: 38
