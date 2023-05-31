@@ -1,17 +1,17 @@
 # AP_Home_Take_Exam_Question_with_Answers
-# Characterisation of miRBase
+ Characterisation of miRBase
 ## Question 1: How many species are there in the current miRBase release?
-## Number of total species found in the mature.fa file: 271
+ Number of total species found in the mature.fa file: 271
 ## Task: generate an ordered plot (i.e. from lowest to highest) of number of miRNAs / species
 
 ![Figure_1](https://github.com/Tigistshewafera/AP_Home_Take_Exam/assets/130226521/679718ed-e0a2-4901-ad23-6c5015c3bf5f)
 
 ## Question 2: how many let-7 miRNAs are there in the current release of miRBase
-## Total number of let-7 family of miRNAs: 740
+ Total number of let-7 family of miRNAs: 740
 ## Total number of species codes with let-7 miRNA: 116
 
 ## Question 3A: what is the current version of miRBase?
-## The current version of miRBase is 22.1
+The current version of miRBase is 22.1
 ## Task 3B: generate a plot to show which let miRNAs are present in each species.
 
 ![Figure_2](https://github.com/Tigistshewafera/AP_Home_Take_Exam/assets/130226521/f4f9b441-9534-4dfd-9965-3f9ae95865d4)
