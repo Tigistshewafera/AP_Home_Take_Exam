@@ -1,4 +1,4 @@
-### AP_Home_Take_Exam_Question_with_Answers
+# AP_Home_Take_Exam_Question_with_Answers
 ## Question 1: How many species are there in the current miRBase release?
 ## Number of total species found in the mature.fa file: 271
 ## Task: generate an ordered plot (i.e. from lowest to highest) of number of miRNAs / species
